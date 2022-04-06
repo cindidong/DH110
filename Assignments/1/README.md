@@ -111,4 +111,14 @@ The lesson pages look like they were designed as a mobile app, then sloppily con
 
 
 #### 9: Help users recognize, diagnose, and recover from errors
+- This website doesn't take any user input, so there's little chance for any traditional errors. However, one of the major problems with this website is the lesson navigation is up to the user and their memory. This makes any user error in navigation (forgetting which page they're currently on so they can't navigate to the next page through the table of contents) almost impossible to recover from.
+
+*Solution: Add a next button in the current lesson page for the next lesson.*
+
 #### 10: Help and documentation
+- This website has a [FAQ page](https://www.musictheory.net/faq), but it's located at the bottom of every page in small text. It can also be accessed as a link in the [Contact Us page](https://www.musictheory.net/contact).
+
+*Solution: Move the FAQ page to the main menu on the top, alongside the Contact Us page.*
+![Music Theory FAQ](https://user-images.githubusercontent.com/55977486/161969492-669256db-44e4-4303-8cfa-090ff60c3386.png)
+![Music Theory Contact](https://user-images.githubusercontent.com/55977486/161969523-cbbe08b1-7a7c-4072-aed5-5b681354bf94.png)
+
