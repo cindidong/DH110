@@ -4,6 +4,30 @@ I had originally planned to do my analysis on two music/beat composition website
 ## Website 1: [Method Behind the Music](https://method-behind-the-music.com/)
 ### About
 ### Heuristic Evaluation
+#### 1: Visibility of system status
+#### 2: Match between system and the real world
+#### 2: Match between system and the real world
+#### 3: User control and freedom
+#### 4: Consistency and standards
+#### 5: Error prevention
+#### 6: Recognition rather than recall
+#### 7: Flexibility and efficiency of use
+#### 8: Aesthetic and minimalist design
+#### 9: Help users recognize, diagnose, and recover from errors
+#### 10: Help and documentation
+
+
 ## Website 2: [Music Theory](https://www.musictheory.net/)
 ### About
 ### Heuristic Evaluation
+#### 1: Visibility of system status
+#### 2: Match between system and the real world
+#### 2: Match between system and the real world
+#### 3: User control and freedom
+#### 4: Consistency and standards
+#### 5: Error prevention
+#### 6: Recognition rather than recall
+#### 7: Flexibility and efficiency of use
+#### 8: Aesthetic and minimalist design
+#### 9: Help users recognize, diagnose, and recover from errors
+#### 10: Help and documentation
