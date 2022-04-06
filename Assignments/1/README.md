@@ -177,5 +177,5 @@ The lesson pages look like they were designed as a mobile app, then sloppily con
 
 *Solution: Move the FAQ page to the main menu on the top, alongside the Contact Us page.*
 
-![Music Theory FAQ](https://user-images.githubusercontent.com/55977486/161969492-669256db-44e4-4303-8cfa-090ff60c3386.png)
-![Music Theory Contact](https://user-images.githubusercontent.com/55977486/161969523-cbbe08b1-7a7c-4072-aed5-5b681354bf94.png)
+![Music Theory FAQ](./MusicTheoryFAQ.png)
+![Music Theory Contact](./MusicTheoryContact.png)
