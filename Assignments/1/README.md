@@ -35,7 +35,7 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 
 *Solution: Add an up arrow button on each page to go back up to the top of the page.*
 
-![LongPage](https://user-images.githubusercontent.com/55977486/161972266-c7ce96d4-d93f-4ed8-a8df-52c7a37522b9.gif)
+![LongPage](./LongPage.gif)
 
 
 #### 4: Consistency and standards
@@ -47,8 +47,8 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 
 *Solution: Add a table of contents at the beginning of each lesson.*
 
-![Lesson No TOC](https://user-images.githubusercontent.com/55977486/161972176-52633a73-3b21-47b2-bd0c-38dba967659e.png)
-![Lesson TOC](https://user-images.githubusercontent.com/55977486/161972182-6d22ff36-ed44-44df-a5d5-941f4554262a.png)
+![Lesson No TOC](./LessonNoTOC.png)
+![Lesson TOC](./LessonTOC.png)
 
 #### 5: Error prevention
 - It's easy to accidentally click an adjacent lesson in the table of contents, instead of the one you intended to click. (2)
