@@ -27,7 +27,11 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 
 ## Website 2: [Music Theory](https://www.musictheory.net/)
 ### About
+I found Music Theory through a Google search for music theory, similar to how the target audience of mid-aged men might find it. There are free music theory lessons, exercises, and tools. There are also paid premium apps for music theory, which they advertise heavily in the landing page. I will only be analyzing the [free music theory lessons section](https://www.musictheory.net/lessons), as this is the focus of my project (and I don't want to pay for the apps).
+
 ### Heuristic Evaluation
+This website is obviously designed as a mobile app, even though it's a website. This is probably because this is a free preview of their paid music theory app. However, this means that many features of this website do not make sense. Music Theory should focus on redesigning specifically with a website in mind, rather than reusing the mobile app design. Similar to The Method Behind the Music, they also have issues with lesson navigation, which they should focus on to make the experience much less frustrating for the user. Thus, these issues and the ones further discussed below create a confusing experience for mid-aged men.
+
 #### 1: Visibility of system status
 #### 2: Match between system and the real world
 #### 3: User control and freedom
