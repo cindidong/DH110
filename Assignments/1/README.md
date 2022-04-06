@@ -1,6 +1,6 @@
 # DH110 Assignment 1: Heuristic Evaluation by Cindi Dong
 ## Music Theory
-I had originally planned to do my analysis on two music/beat composition websites, as I am interested in how music is created. However, I found most of these websites required some basic music theory knowledge to begin with through this process. I don't know much about music, so I thought it would be better for me to focus on music theory for beginners instead. Thus, the purpose of my project is to provide a clean, easy to understand website to learn music theory. To do, I will analyze two music theory websites through the lens of [Jakob Nielson's usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Nielsen Norman Group's severity ratings for usability problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). Both of these websites were found through a simple Google search for music theory.
+I had originally planned to do my analysis on two music/beat composition websites, as I am interested in how music is created. However, I found most of these websites required some basic music theory knowledge to begin with. I don't know much about music, so I thought it would be better for me to focus on music theory for beginners instead. Thus, the purpose of my project is to provide a clean, easy to understand website to learn music theory. To do, I will analyze two music theory websites through the lens of [Jakob Nielson's usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Nielsen Norman Group's severity ratings for usability problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). Both of these websites were found through a simple Google search for music theory.
 ## Website 1: [Method Behind the Music](https://method-behind-the-music.com/)
 ### About
 I found Method Behind the Music through a Google search for music theory, similar to how the target audience of mid-aged men might find it. It is a simple website aimed at teaching music theory for all skill levels. In addition to this, they also have information on instruments and music history. The website has a table of contents on the left side, where the user can navigate to the lesson they need.
@@ -8,7 +8,7 @@ I found Method Behind the Music through a Google search for music theory, simila
 ![The Method Behind the Music](https://user-images.githubusercontent.com/55977486/161948029-02681b08-071c-4560-8f2e-39529d56b2f8.png)
 ### Heuristic Evaluation
 #### Overall Evaluation
-This website has major issues, mostly relating to the difficulty of lesson/page navigation with the table of contents. A complete revamp of this feature should be the main area of focus. Likewise, this website has the basic HTML design of older websites, which makes it look uninteresting. Overall, this website wouldn't be suitable for the target audience of mid-aged men. The issues further discussed below would cause confusion for even those who are tech literate, much less mid-aged men.
+This website has major issues, mostly relating to the difficulty of lesson/page navigation with the table of contents. A complete revamp of this feature should be the main area of focus. Likewise, this website has the basic HTML design of older websites and no interactive elements, which makes it boring and uninteresting. Overall, this website wouldn't be suitable for the target audience of mid-aged men.
 
 #### 1: Visibility of system status
 - This website has a table of contents on the left side, but it doesn't highlight which section/page you are currently on. This makes it hard for the user to determine which page they currently are on. (3)
@@ -57,7 +57,7 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 *Solution: Change the color of the lesson your mouse is currently hovering over in the table of contents.*
 
 #### 6: Recognition rather than recall
-- The user has to remember which lesson they're on to navigate to the next lesson. (2)
+- The user has to remember which lesson they're on to navigate to the next lesson. (3)
 
 *Solution: Add a next button on the current lesson page that directs the user to the next lesson, or make the current lesson unclickable in the table of contents.*
 
@@ -67,7 +67,7 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 *Solution: Add a search function.*
 
 #### 8: Aesthetic and minimalist design
-- The design is minimalist, but it is not aesthetic. It's a bare bones HTML website that could use a redesign, as it looks very uninteresting and boring. This doesn't affect the usability of the site, but more interactive elements would draw more users in. (2)
+- The design is minimalist, but it is not aesthetic. It's a bare bones HTML website that could use a redesign, as it looks very uninteresting and boring. This doesn't affect the usability of the site, but more interactive elements would draw more users in. (3)
 
 *Solution: Redesign the site to have a cohesive theme, a better color scheme, more interactive elements, etc.*
 
@@ -98,12 +98,14 @@ This website is obviously designed as a mobile app, even though it's a website. 
 - Once inside the particular lesson, there is no way to tell which section/chapter your current lesson is under. (2)
 
 *Solution: Add the current chapter to the title of the current lesson page, i.e. "The Basics: The Staff, Clef, and Ledger Lines".*
+
 - There is no indication on how many lessons are left in the section/chapter the lesson is in. (2)
 
 *Solution: Add the number of lessons left in the chapter to the title of the lesson page, i.e. "The Staff, Clef, and Ledger Lines (1/12)".*
+
 - There is sound for some animations in a particular lesson, which can be played by pressing the sound icon on the left of the content/script. However, this button is hard to see as it's small. (3)
 
-*Solution: Automatically play the sound when on the animation slide.*
+*Solution: Automatically play the sound when on an animation with sound.*
 
 ![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
 
@@ -178,4 +180,3 @@ The lesson pages look like they were designed as a mobile app, then sloppily con
 
 ![Music Theory FAQ](https://user-images.githubusercontent.com/55977486/161969492-669256db-44e4-4303-8cfa-090ff60c3386.png)
 ![Music Theory Contact](https://user-images.githubusercontent.com/55977486/161969523-cbbe08b1-7a7c-4072-aed5-5b681354bf94.png)
-
