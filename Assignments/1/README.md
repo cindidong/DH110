@@ -5,7 +5,7 @@ I had originally planned to do my analysis on two music/beat composition website
 ### About
 I found Method Behind the Music through a Google search for music theory, similar to how the target audience of mid-aged men might find it. It is a simple website aimed at teaching music theory for all skill levels. In addition to this, they also have information on instruments and music history. The website has a table of contents on the left side, where the user can navigate to the lesson they need.
 
-![The Method Behind the Music](https://user-images.githubusercontent.com/55977486/161948029-02681b08-071c-4560-8f2e-39529d56b2f8.png)
+![The Method Behind the Music](./TheMethodBehindTheMusic.png)
 ### Heuristic Evaluation
 #### Overall Evaluation
 This website has major issues, mostly relating to the difficulty of lesson/page navigation with the table of contents. A complete revamp of this feature should be the main area of focus. Likewise, this website has the basic HTML design of older websites and no interactive elements, which makes it boring and uninteresting. Overall, this website wouldn't be suitable for the target audience of mid-aged men.
