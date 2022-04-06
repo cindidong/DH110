@@ -51,14 +51,35 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 
 ![Lesson TOC](https://user-images.githubusercontent.com/55977486/161972182-6d22ff36-ed44-44df-a5d5-941f4554262a.png)
 
-
 #### 5: Error prevention
-#### 6: Recognition rather than recall
-#### 7: Flexibility and efficiency of use
-#### 8: Aesthetic and minimalist design
-#### 9: Help users recognize, diagnose, and recover from errors
-#### 10: Help and documentation
+- It's easy to accidentally click an adjacent lesson in the table of contents, instead of the one you intended to click. (2)
 
+*Solution: Change the color of the lesson your mouse is currently hovering over in the table of contents.*
+
+#### 6: Recognition rather than recall
+- The user has to remember which lesson they're on to navigate to the next lesson. (2)
+
+*Solution: Add a next button on the current lesson page that directs the user to the next lesson, or make the current lesson unclickable in the table of contents.*
+
+#### 7: Flexibility and efficiency of use
+- A search function should be implemented, so users just looking for one particular concept can just search for it. (1)
+
+*Solution: Add a search function.*
+
+#### 8: Aesthetic and minimalist design
+- The design is minimalist, but it is not aesthetic. It's a bare bones HTML website that could use a redesign, as it looks very uninteresting and boring. This doesn't affect the usability of the site, but more interactive elements would draw more users in. (2)
+
+*Solution: Redesign the site to have a cohesive theme, a better color scheme, more interactive elements, etc.*
+
+#### 9: Help users recognize, diagnose, and recover from errors
+- This website doesn't take any user input, so there's little chance for any traditional errors. However, one of the major problems with this website is the page navigation is up to the user and their memory. This makes any user error in navigation (forgetting which page they're currently on so they can't navigate to the next page through the table of contents) almost impossible to recover from without clicking around a lot. (3)
+
+*Solution: Add a next button in the current lesson page for the next lesson.*
+
+#### 10: Help and documentation
+- This website is pretty simple and shouldn't need that much documentation. As such, there is no FAQ page. However, there is a Contact Us page that opens the email application on your computer. (1)
+
+*Solution: Add a FAQ page.*
 
 ## Website 2: [Music Theory](https://www.musictheory.net/)
 ### About
