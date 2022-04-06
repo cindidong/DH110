@@ -53,14 +53,62 @@ This website is obviously designed as a mobile app, even though it's a website. 
 
 #### 2: Match between system and the real world
 - A convention for most lesson based websites is to have a next button for next lesson in the current lesson's page. This allows the user to easily navigate to next lesson. In this case, going to the next lesson means clicking on the home button on the top of the screen, which takes you back to the table of contents page. Then you have click on the next lesson, which is a lot of work. (3)
-*Solution: Add a back button on the top.*
-- Some animations in a lesson have sound, which can be played by pressing the sound icon on the left of the content/script. It can also be played when the same sound icon on the bottom is not greyed out and is pressed. However, I thought this button was the volume control for the first method to play the sound (the sound icon to the left of the content/script), and not a button to press for the actual sound to play. This is because most websites use that particular sound icon for volume control. (2)
-*Solution: Change the sound icon to a play icon (to play the sound)* 
+
+*Solution: Add a next button on the top to go to the next lesson.*
+
+- Some animations in a lesson have sound, which can be played by pressing the sound icon on the left of the content/script. It can also be played when the same sound icon on the bottom is not greyed out and is pressed (see picture in 1: Visibility of system status). However, I thought this button was the volume control for the first method to play the sound (the sound icon to the left of the content/script), and not a button to press for the actual sound to play. This is because most websites use that particular sound icon for volume control. (2)
+
+*Solution: Change the sound icon to a play icon (to play the sound), or get rid of it and only keep the sound icon to the left of the content/script.* 
+
 #### 3: User control and freedom
+- There is no button to go back to the previous lesson/page, in case the user wants to revisit the last lesson. (3)
+
+*Solution: Add a back button to the top to go back to the previous lesson.*
+
 #### 4: Consistency and standards
+- There is an option to view the lesson in image mode, instead of the standard slideshow mode. In the image mode, there are no animations and only images. This is understandable, as it is called image mode. However, there is also no sound option. Thus, the modes are not consistent with each other and the user is missing information when on image mode. (3)
+
+*Solution: Add a sound button to the top left of the lesson subsection in image mode.*
+
+![Music Theory Image Mode](https://user-images.githubusercontent.com/55977486/161967313-694a0cf6-173c-4a08-85fc-ccaa01f2dd68.png)
+
 #### 5: Error prevention
+- The user may accidentally click on the slider on the bottom of the screen and skip to an unintended part of the lesson. (2)
+
+*Solution: Get rid of the slider on the bottom of the screen.*
+
+![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
+
 #### 6: Recognition rather than recall
+- The user has to remember which page/lesson they're on to navigate to the next page/lesson. To go to the next lesson, you have to click on the home button on the top of the lesson, which takes you back to the table of contents page. Then, you have to remember the lesson you just were on, search for it in the table of contents, then click on the next lesson. (3)
+
+*Solution: Add a next button on the current lesson page that directs the user to the next lesson.*
+
 #### 7: Flexibility and efficiency of use
+- This website has keyboard shortcuts (left and right arrow) to move onto the next animation, but there's none to play the corresponding sound. (2)
+
+*Solution: Play the sound when the space bar is pressed.*
+
+- A search function should be implemented, so users just looking for one particular concept can just search for it. (1)
+
+*Solution: Add a search function.*
+
 #### 8: Aesthetic and minimalist design
+The lesson pages look like they were designed as a mobile app, then sloppily converted into a web application. 
+- The icons on the top are the same as the ones for Android apps, and there is no ability to hover over the home button to display a larger menu. You don't have the ability to hover in apps, but you can provide a larger breadth of information with minimum space on a website with hovering. (2)
+
+*Solution: Allow the user to hover over the home button to produce the table of contents.*
+
+- The slider on the bottom of the screen in slideshow mode is unnecessary and looks like it belongs in a mobile app instead a web application, as it's harder for mobile users to scroll. (1)
+
+*Solution: Remove the slider.*
+
+- The ratio between the animation and the content/script is designed for mobile. When the screen is larger, the animation is much larger than the content, so it's hard to read the content. When the screen is smaller, the ratio is more similar and the content is much easier to read. There is no option to adjust the size of the content as well. (3)
+
+*Solution: Redesign the ratio between the animation and the content for users with large computer screens*
+
+![Music Theory Small Page](https://user-images.githubusercontent.com/55977486/161968896-353e94d6-b013-4da7-9afc-c66125b9acbe.png)
+
+
 #### 9: Help users recognize, diagnose, and recover from errors
 #### 10: Help and documentation
