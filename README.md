@@ -1,4 +1,4 @@
 # UCLA DH110
 ## Cindi Dong
 
-The site I'm planning on working on is https://learningmusic.ableton.com/index.html. It teaches users how to make beats, or backing music for songs.
+The site I'm planning on working on is https://www.musictheory.net/. It teaches users how about music theory.
