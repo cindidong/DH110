@@ -48,7 +48,6 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 *Solution: Add a table of contents at the beginning of each lesson.*
 
 ![Lesson No TOC](https://user-images.githubusercontent.com/55977486/161972176-52633a73-3b21-47b2-bd0c-38dba967659e.png)
-
 ![Lesson TOC](https://user-images.githubusercontent.com/55977486/161972182-6d22ff36-ed44-44df-a5d5-941f4554262a.png)
 
 #### 5: Error prevention
