@@ -84,11 +84,11 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 ### About
 I found Music Theory through a Google search for music theory, similar to how the target audience of mid-aged men might find it. There are free music theory lessons, exercises, and tools. There are also paid premium apps for music theory, which they advertise heavily in the landing page. I will only be analyzing the [free music theory lessons section](https://www.musictheory.net/lessons), as this is the focus of my project (and I don't want to pay for the apps).
 
-![Music Theory](https://user-images.githubusercontent.com/55977486/161963393-3ea02a63-f9e3-4ff5-a859-bdfb0830acf2.png)
+![Music Theory](./MusicTheory.png)
 
 The [free music theory lessons section](https://www.musictheory.net/lessons) also serves as the table of contents, where you can view each section, subsection, and a short description of each subsection.
 
-![Music Theory TOC Page](https://user-images.githubusercontent.com/55977486/161963450-1c93bb4e-7ef5-47cd-b86e-2bc61daf3501.png)
+![Music Theory TOC Page](./MusicTheoryTOCPage.png)
 
 ### Heuristic Evaluation
 This website is obviously designed as a mobile app, even though it's a website. This is probably because this is a free preview of their paid music theory app. However, this means that many features of this website do not make sense. Music Theory should focus on redesigning specifically with a website in mind, rather than reusing the mobile app design. Similar to The Method Behind the Music, they also have issues with lesson navigation, which they should focus on to make the experience much less frustrating for the user. Thus, these issues and the ones further discussed below create a confusing experience for mid-aged men.
@@ -106,7 +106,7 @@ This website is obviously designed as a mobile app, even though it's a website. 
 
 *Solution: Automatically play the sound when on an animation with sound.*
 
-![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
+![Music Theory Lesson Page](./MusicTheoryLessonPage.png)
 
 #### 2: Match between system and the real world
 - A convention for most lesson based websites is to have a next button for next lesson in the current lesson's page. This allows the user to easily navigate to next lesson. In this website, going to the next lesson means clicking on the home button on the top of the screen, which takes you back to the table of contents page. Then you have click on the next lesson, which is a lot of work. (3)
@@ -127,14 +127,14 @@ This website is obviously designed as a mobile app, even though it's a website. 
 
 *Solution: Add a sound button to the top left of the lesson subsection in image mode.*
 
-![Music Theory Image Mode](https://user-images.githubusercontent.com/55977486/161967313-694a0cf6-173c-4a08-85fc-ccaa01f2dd68.png)
+![Music Theory Image Mode](./MusicTheoryImageMode.png)
 
 #### 5: Error prevention
 - The user may accidentally click on the slider on the bottom of the screen and skip to an unintended part of the lesson. (2)
 
 *Solution: Get rid of the slider on the bottom of the screen.*
 
-![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
+![Music Theory Lesson Page](./MusicTheoryLessonPage.png)
 
 #### 6: Recognition rather than recall
 - The user has to remember which page/lesson they're on to navigate to the next page/lesson. To go to the next lesson, you have to click on the home button on the top of the lesson, which takes you back to the table of contents page. Then, you have to remember the lesson you just were on, search for it in the table of contents, then click on the next lesson. (3)
@@ -164,7 +164,7 @@ The lesson pages look like they were designed as a mobile app, then sloppily con
 
 *Solution: Redesign the ratio between the animation and the content for users with large computer screens*
 
-![Music Theory Small Page](https://user-images.githubusercontent.com/55977486/161968896-353e94d6-b013-4da7-9afc-c66125b9acbe.png)
+![Music Theory Small Page](./MusicTheorySmallPage.png)
 
 
 #### 9: Help users recognize, diagnose, and recover from errors
