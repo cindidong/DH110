@@ -11,12 +11,47 @@ I found Method Behind the Music through a Google search for music theory, simila
 This website has major issues, mostly relating to the difficulty of lesson/page navigation with the table of contents. A complete revamp of this feature should be the main area of focus. Likewise, this website has the basic HTML design of older websites, which makes it look uninteresting. Overall, this website wouldn't be suitable for the target audience of mid-aged men. The issues further discussed below would cause confusion for even those who are tech literate, much less mid-aged men.
 
 #### 1: Visibility of system status
+- This website has a table of contents on the left side, but it doesn't highlight which section/page you are currently on. This makes it hard for the user to determine which page they currently are on. (3)
+
+*Solution: Make the current page unclickable on the table of contents.*
+
+- Some page titles/headers do not match the corresponding entry in the table of contents. In the below example, we are actually on the Music Dictionary subsection under the Music Theory section. This makes it hard for the user to determine which page they currently are on. (3)
+
+*Solution: Make sure all page titles/headers match the corresponding entry in the table of contents.*
 
 ![Mismatched Page Titles](https://user-images.githubusercontent.com/55977486/161935362-c33f184e-4c1e-4342-9275-2a309e70a03c.png)
 
 #### 2: Match between system and the real world
+- A convention for most lesson based websites is to have next button at the bottom of the page. This allows the user to easily navigate to next lesson without having to go back to the table of contents to check for and click on the next lesson. This website doesn't have a next button. (3)
+
+*Solution: Add a next button at the bottom of each lesson directing the user to the next lesson.*
+
 #### 3: User control and freedom
+- There is no button to go back to the previous lesson (besides the browser back button). (3)
+
+*Solution: Add a back button to go back to the previous lesson.*
+
+- Some pages are quite long, so the user might scroll far down the page before realizing they don't want to be on that page. (2)
+
+*Solution: Add an up arrow button on each page to go back up to the top of the page.*
+
+![LongPage](https://user-images.githubusercontent.com/55977486/161972266-c7ce96d4-d93f-4ed8-a8df-52c7a37522b9.gif)
+
+
 #### 4: Consistency and standards
+- The Flash Piano, About Us, and Contact Us pages are part of the table of contents, which make them look like lessons to the user. (1)
+
+*Solution: Move the Flash Piano, About Us, and Contact Us pages to a different area of the website separate from the table of contents.*
+
+- Some lessons have their own table of contents, so you can skip to the subsection you want on the lesson. This tends to be longer lessons. However, some lessons don't have this table of contents, which tends to be shorter lessons. (1)
+
+*Solution: Add a table of contents at the beginning of each lesson.*
+
+![Lesson No TOC](https://user-images.githubusercontent.com/55977486/161972176-52633a73-3b21-47b2-bd0c-38dba967659e.png)
+
+![Lesson TOC](https://user-images.githubusercontent.com/55977486/161972182-6d22ff36-ed44-44df-a5d5-941f4554262a.png)
+
+
 #### 5: Error prevention
 #### 6: Recognition rather than recall
 #### 7: Flexibility and efficiency of use
@@ -52,7 +87,7 @@ This website is obviously designed as a mobile app, even though it's a website. 
 ![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
 
 #### 2: Match between system and the real world
-- A convention for most lesson based websites is to have a next button for next lesson in the current lesson's page. This allows the user to easily navigate to next lesson. In this case, going to the next lesson means clicking on the home button on the top of the screen, which takes you back to the table of contents page. Then you have click on the next lesson, which is a lot of work. (3)
+- A convention for most lesson based websites is to have a next button for next lesson in the current lesson's page. This allows the user to easily navigate to next lesson. In this website, going to the next lesson means clicking on the home button on the top of the screen, which takes you back to the table of contents page. Then you have click on the next lesson, which is a lot of work. (3)
 
 *Solution: Add a next button on the top to go to the next lesson.*
 
@@ -111,14 +146,15 @@ The lesson pages look like they were designed as a mobile app, then sloppily con
 
 
 #### 9: Help users recognize, diagnose, and recover from errors
-- This website doesn't take any user input, so there's little chance for any traditional errors. However, one of the major problems with this website is the lesson navigation is up to the user and their memory. This makes any user error in navigation (forgetting which page they're currently on so they can't navigate to the next page through the table of contents) almost impossible to recover from.
+- This website doesn't take any user input, so there's little chance for any traditional errors. However, one of the major problems with this website is the lesson navigation is up to the user and their memory. This makes any user error in navigation (forgetting which page they're currently on so they can't navigate to the next page through the table of contents) almost impossible to recover from. (3)
 
 *Solution: Add a next button in the current lesson page for the next lesson.*
 
 #### 10: Help and documentation
-- This website has a [FAQ page](https://www.musictheory.net/faq), but it's located at the bottom of every page in small text. It can also be accessed as a link in the [Contact Us page](https://www.musictheory.net/contact).
+- This website has a [FAQ page](https://www.musictheory.net/faq), but it's located at the bottom of every page in small text. It can also be accessed as a link in the [Contact Us page](https://www.musictheory.net/contact). (1)
 
 *Solution: Move the FAQ page to the main menu on the top, alongside the Contact Us page.*
+
 ![Music Theory FAQ](https://user-images.githubusercontent.com/55977486/161969492-669256db-44e4-4303-8cfa-090ff60c3386.png)
 ![Music Theory Contact](https://user-images.githubusercontent.com/55977486/161969523-cbbe08b1-7a7c-4072-aed5-5b681354bf94.png)
 
