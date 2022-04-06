@@ -40,12 +40,22 @@ This website is obviously designed as a mobile app, even though it's a website. 
 
 #### 1: Visibility of system status
 - Once inside the particular lesson, there is no way to tell which section/chapter your current lesson is under. (2)
+
+*Solution: Add the current chapter to the title of the current lesson page, i.e. "The Basics: The Staff, Clef, and Ledger Lines".*
 - There is no indication on how many lessons are left in the section/chapter the lesson is in. (2)
+
+*Solution: Add the number of lessons left in the chapter to the title of the lesson page, i.e. "The Staff, Clef, and Ledger Lines (1/12)".*
 - There is sound for some animations in a particular lesson, which can be played by pressing the sound icon on the left of the content/script. However, this button is hard to see as it's small. (3)
+
+*Solution: Automatically play the sound when on the animation slide.*
 
 ![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
 
 #### 2: Match between system and the real world
+- A convention for most lesson based websites is to have a next button for next lesson in the current lesson's page. This allows the user to easily navigate to next lesson. In this case, going to the next lesson means clicking on the home button on the top of the screen, which takes you back to the table of contents page. Then you have click on the next lesson, which is a lot of work. (3)
+*Solution: Add a back button on the top.*
+- Some animations in a lesson have sound, which can be played by pressing the sound icon on the left of the content/script. It can also be played when the same sound icon on the bottom is not greyed out and is pressed. However, I thought this button was the volume control for the first method to play the sound (the sound icon to the left of the content/script), and not a button to press for the actual sound to play. This is because most websites use that particular sound icon for volume control. (2)
+*Solution: Change the sound icon to a play icon (to play the sound)* 
 #### 3: User control and freedom
 #### 4: Consistency and standards
 #### 5: Error prevention
