@@ -29,10 +29,22 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 ### About
 I found Music Theory through a Google search for music theory, similar to how the target audience of mid-aged men might find it. There are free music theory lessons, exercises, and tools. There are also paid premium apps for music theory, which they advertise heavily in the landing page. I will only be analyzing the [free music theory lessons section](https://www.musictheory.net/lessons), as this is the focus of my project (and I don't want to pay for the apps).
 
+![Music Theory](https://user-images.githubusercontent.com/55977486/161963393-3ea02a63-f9e3-4ff5-a859-bdfb0830acf2.png)
+
+The [free music theory lessons section](https://www.musictheory.net/lessons) also serves as the table of contents, where you can view each section, subsection, and a short description of each subsection.
+
+![Music Theory TOC Page](https://user-images.githubusercontent.com/55977486/161963450-1c93bb4e-7ef5-47cd-b86e-2bc61daf3501.png)
+
 ### Heuristic Evaluation
 This website is obviously designed as a mobile app, even though it's a website. This is probably because this is a free preview of their paid music theory app. However, this means that many features of this website do not make sense. Music Theory should focus on redesigning specifically with a website in mind, rather than reusing the mobile app design. Similar to The Method Behind the Music, they also have issues with lesson navigation, which they should focus on to make the experience much less frustrating for the user. Thus, these issues and the ones further discussed below create a confusing experience for mid-aged men.
 
 #### 1: Visibility of system status
+- Once inside the particular lesson, there is no way to tell which section/chapter your current lesson is under. (2)
+- There is no indication on how many lessons are left in the section/chapter the lesson is in. (2)
+- There is sound for some animations in a particular lesson, which can be played by pressing the sound icon on the left of the content/script. However, this button is hard to see as it's small. (3)
+
+![Music Theory Lesson Page](https://user-images.githubusercontent.com/55977486/161964193-c66639d1-e091-468f-8729-ef77484f62c2.png)
+
 #### 2: Match between system and the real world
 #### 3: User control and freedom
 #### 4: Consistency and standards
