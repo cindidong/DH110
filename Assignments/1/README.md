@@ -6,7 +6,6 @@ I had originally planned to do my analysis on two music/beat composition website
 ### Heuristic Evaluation
 #### 1: Visibility of system status
 #### 2: Match between system and the real world
-#### 2: Match between system and the real world
 #### 3: User control and freedom
 #### 4: Consistency and standards
 #### 5: Error prevention
@@ -21,7 +20,6 @@ I had originally planned to do my analysis on two music/beat composition website
 ### About
 ### Heuristic Evaluation
 #### 1: Visibility of system status
-#### 2: Match between system and the real world
 #### 2: Match between system and the real world
 #### 3: User control and freedom
 #### 4: Consistency and standards
