@@ -19,7 +19,7 @@ This website has major issues, mostly relating to the difficulty of lesson/page 
 
 *Solution: Make sure all page titles/headers match the corresponding entry in the table of contents.*
 
-![Mismatched Page Titles](https://user-images.githubusercontent.com/55977486/161935362-c33f184e-4c1e-4342-9275-2a309e70a03c.png)
+![Mismatched Page Titles](./MismatchedPageTitles.png)
 
 #### 2: Match between system and the real world
 - A convention for most lesson based websites is to have next button at the bottom of the page. This allows the user to easily navigate to next lesson without having to go back to the table of contents to check for and click on the next lesson. This website doesn't have a next button. (3)
