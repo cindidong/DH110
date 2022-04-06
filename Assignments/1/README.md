@@ -5,6 +5,9 @@ I had originally planned to do my analysis on two music/beat composition website
 ### About
 ### Heuristic Evaluation
 #### 1: Visibility of system status
+
+![Mismatched Page Titles](https://user-images.githubusercontent.com/55977486/161935362-c33f184e-4c1e-4342-9275-2a309e70a03c.png)
+
 #### 2: Match between system and the real world
 #### 3: User control and freedom
 #### 4: Consistency and standards
