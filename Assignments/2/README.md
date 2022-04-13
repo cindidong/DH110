@@ -4,6 +4,8 @@
 
 ## Purpose
 
+## Methodology
+
 ## Survey Link
 [Participant link to survey](https://forms.gle/Q8WH9w9curxn34UU9)
 
