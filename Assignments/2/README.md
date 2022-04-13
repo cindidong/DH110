@@ -1,7 +1,7 @@
 # DH110 Assignment 2: Usability Testing by Cindi Dong
 
 ## Introduction
-The purpose of this UT is to test the usability of https://www.musictheory.net/ for the target demographic of mid-aged men who are interesting in music learning. To create the tasks, I focused on some of the heuristics the website failed to satisfy in [Assignment 1](https://github.com/cindidong/DH110/tree/main/Assignments/1).
+The purpose of this UT is to test the usability of https://www.musictheory.net/ for the target demographic of mid-aged men who are interesting in music learning. To create the tasks, I focused on some of the heuristics the website failed to satisfy in [Assignment 1](https://github.com/cindidong/DH110/tree/main/Assignments/1) summarized below. Most of these were issues with navigation throughout the website/lessons and how the user interacts with the content. 
 
 #### 1: Visibility of system status
 - There is sound for some animations in a particular lesson, which can be played by pressing the sound icon on the left of the content/script. However, this button is hard to see as it's small.
@@ -22,9 +22,15 @@ The purpose of this UT is to test the usability of https://www.musictheory.net/ 
 #### 7: Flexibility and efficiency of use
 - A search function should be implemented, so users just looking for one particular concept can just search for it.
 
-Most of these were issues with navigation throughout the website/lessons and how the user interacts with the content. Likewise, I tried to think of common tasks the target demographic would do, such as navigating to the free lessons page and playing the digital piano included on the website.
+Likewise, I tried to think of common tasks the target demographic would do, such as navigating to the free lessons page and playing the digital piano included on the website. After this process, I came up with 6 tasks.
 
-Thus, I came up with 6 tasks. Task 1 is to find and navigate to the free lessons page. Task 2 is to search for the lesson about the major scale, and to go through the lesson as normal to play the corresponding sound for the C scale. Task 3 is to find the image mode. Task 4 is to find the digital piano popup. Task 5 is to navigate to the next lesson. Task 6 is to navigate to the previous lesson.
+#### Tasks
+1. Find and navigate to the free lessons page. 
+2. Search for the lesson about the major scale, and to go through the lesson as normal to play the corresponding sound for the C scale. 
+3. Find the image mode. 
+4. Find the digital piano popup. 
+5. Navigate to the next lesson. 
+6. Navigate to the previous lesson.
 
 ## Methodology
 I ran this UT over Zoom, with the moderator (me) located in a quiet place in Los Angeles, California and the participant located in a quiet place somewhere else. The participant shared their screen through Zoom with the website open, and had a different computer open with the Google Form survey. I also had the Google Form survey/script open on my phone, and recorded the participant's screen through Zoom. Both of our cameras were on, so we could see each other's facial expressions. I edited the video (see more information in UT Video Link section) with iMovie. As the participant progressed through the survey, she completed the informed consent, background questions, pre-test questionnaire, 6 tasks, post-test questionnaire, SUS, production satisfaction, and confidential demographic questions.
@@ -39,7 +45,7 @@ I ran this UT over Zoom, with the moderator (me) located in a quiet place in Los
 
 Notes:
 - The participant was getting frustrated and wanted to take a break at around 13:45, so I just cut it from the recording.
-- We also ran into screen sharing problems at around 15:33 (she wasn't sharing her entire screen), so I just cut the part out where we figured that out.
-- Likewise, I ended the recording before the participant filled out the demographics questions.
+- We ran into screen sharing problems at around 15:33 (she wasn't sharing her entire screen), so I just cut the part out where we figured that out.
+- I ended the recording before the participant filled out the demographics questions, and thanked the participant after completion.
 
 ## Reflection
