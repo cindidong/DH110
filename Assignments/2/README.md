@@ -12,10 +12,9 @@
 ## UT Video Link
 [Link to pilot UT testing YouTube video with screen recording](https://youtu.be/VfO5F0VYkOY)
 
-The participant was getting frustrated and wanted to take a break at around 13:45, so I just cut it from the recording.
-
-We also ran into screen sharing problems at around 15:33 (she wasn't sharing her entire screen), so I just cut the part out where we figured that out.
-
-Likewise, I ended the recording before the participant filled out the demographics questions.
+Notes:
+- The participant was getting frustrated and wanted to take a break at around 13:45, so I just cut it from the recording.
+- We also ran into screen sharing problems at around 15:33 (she wasn't sharing her entire screen), so I just cut the part out where we figured that out.
+- Likewise, I ended the recording before the participant filled out the demographics questions.
 
 ## Reflection
