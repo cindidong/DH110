@@ -33,7 +33,7 @@ Likewise, I tried to think of common tasks the target demographic would do, such
 6. Navigate to the previous lesson.
 
 ## Methodology
-I ran this UT over Zoom, with the moderator (me) located in a quiet place in Los Angeles, California and the participant located in a quiet place somewhere else. The participant shared their screen through Zoom with the website open, and had a different computer open with the Google Form survey. I also had the Google Form survey/script open on my phone, and recorded the participant's screen through Zoom. Both of our cameras were on, so we could see each other's facial expressions. I edited the video (see more information in UT Video Link section) with iMovie. As the participant progressed through the survey, she completed the informed consent, background questions, pre-test questionnaire, 6 tasks, post-test questionnaire, SUS, production satisfaction, and confidential demographic questions.
+I ran this UT over Zoom, with the moderator (me) located in a quiet place in Los Angeles, California and the participant located in a quiet place somewhere else. The participant shared their screen through Zoom with the website open, and had a different computer open with the Google Form survey. I also had the Google Form survey/script open on my phone, and recorded the participant's screen through Zoom. Both of our cameras were on, so we could see each other's facial expressions. I edited the video (see Notes in UT Video Link section for what I edited) with iMovie. As the participant progressed through the survey, she completed the informed consent, background questions, pre-test questionnaire, 6 tasks, post-test questionnaire, SUS, production satisfaction, and confidential demographic questions.
 
 ## UT Survey Link
 [Participant link to survey](https://forms.gle/Q8WH9w9curxn34UU9)
@@ -43,7 +43,7 @@ I ran this UT over Zoom, with the moderator (me) located in a quiet place in Los
 ## UT Video Link
 [Link to pilot UT testing YouTube video with screen recording](https://youtu.be/VfO5F0VYkOY)
 
-Notes:
+#### Notes
 - The participant was getting frustrated and wanted to take a break at around 13:45, so I just cut it from the recording.
 - We ran into screen sharing problems at around 15:33 (she wasn't sharing her entire screen), so I just cut the part out where we figured that out.
 - I ended the recording before the participant filled out the demographics questions, and thanked the participant after completion.
