@@ -8,8 +8,9 @@
 #### What is the basic need/goal involved for that activity? (reference)
 > This activity fulfills a user's cognitive need, as it fulfills the need to acquire information/learn (specifically learning about music theory).
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
-> Traditional solutions would be to take paid music theory lessons/classes in person, either in a classroom/group setting or in a one-on-one lesson.
+> Traditional solutions would be to take paid music theory lessons/classes in-person, either in a classroom/group setting or in a one-on-one lesson.
 #### What is(are) the limitation(s) that possibly would be improved?
+> Music theory lessons in-person usually cost money, and require a set time commitment each week that might not be feasible for people with changing schedules. Technology can be utilized in the form of a dynamic website to make these lessons available, free, and able to be accessed whenever the user has free time.
 
 ### Step 2: Target users
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)
