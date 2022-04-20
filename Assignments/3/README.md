@@ -4,8 +4,11 @@
 
 ### Step 1: Specify the research goal & requirements
 #### What is the main activity your project would support for the users?
+> The main activity my project would need to support for users is providing a fun, easy to understand way to learn about music theory.
 #### What is the basic need/goal involved for that activity? (reference)
+> This activity fulfills a user's cognitive need, as it fulfills the need to acquire information/learn (specifically learning about music theory).
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
+> Traditional solutions would be to take paid music theory lessons/classes in person, either in a classroom/group setting or in a one-on-one lesson.
 #### What is(are) the limitation(s) that possibly would be improved?
 
 ### Step 2: Target users
