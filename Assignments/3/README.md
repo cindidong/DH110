@@ -11,7 +11,7 @@
 ### Step 2: Target users
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)
 > - Demographics: Anyone who is interested in learning about music theory, but probably on the younger side (10 years old to 50 years old) since this is a website.
-> - Preference: Users who have no experience with music theory up to users who are at an intermediate level with music theory. Those who are too advanced probably wouldn't need the lessons on the website.
+> - Preference: Users who have no experience with music theory up to users who are at an intermediate level with music theory (who might need a quick refresher on basic concepts or want to learn a more advanced concept). Those who are too advanced probably wouldn't need the lessons on the website.
 > - Expertise: There are some more advanced lessons on the website, so the expertise level regarding music theory could range from beginners to intermediate. 
 #### In which context (where, why, under which conditions) would the users do that activity?
 > Users would typically use this website in their free time in their home. If they wished to learn about music for their own benefit/hobby, they would access this website in their free time probably in their own homes. Likewise, those who wanted use this website as a supplement to a music theory class would also probably access this website in their free time in their own homes.
