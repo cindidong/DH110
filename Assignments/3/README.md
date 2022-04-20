@@ -19,11 +19,15 @@ by active / passive / participatory interaction *
 Or something you learned on your own
 
 ### Step 4: Plan the details
-Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually
-Decide what activities to observe
-Decide how to interact with the users (ex. overt x participatory if it is contextual inquiry)
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the (interview + observation) guide
+I decided it would be best to conduct this interview virtually, as users would normally use the website in their free time in their homes. Thus, the interview was conducted virtually through Zoom, in the participant's free time in their own home. In addition, it is easy to record and generate a transcription through Zoom. Thus, I collected the data through video recording and the corresponding transcript. I decided to observe the participant's normal procedure for choosing a music theory resource to learn from, and the participant's first experience with https://www.musictheory.net/. To do this, I chose to conduct a participatory contextual inquiry. Here is my [Contextual Inquiry Guide](https://docs.google.com/document/d/1MENiQkyaTjGfZXIbzgMB-SQlrYFlQPhaaWYZ8NjBbQc/edit?usp=sharing).
+
+## Results
+Contextual Inquiry Guide/Script: https://docs.google.com/document/d/1MENiQkyaTjGfZXIbzgMB-SQlrYFlQPhaaWYZ8NjBbQc/edit?usp=sharing
+
+Recording: https://www.youtube.com/watch?v=ikB133o7Uak
+
+Transcript: https://docs.google.com/document/d/1Ijq4OHDSDswHV8oPY0GC8N-G3Reozq3Ksp_BnpiReWc/edit?usp=sharing
+
 
 
 ## Reflection
