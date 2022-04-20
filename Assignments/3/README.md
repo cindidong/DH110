@@ -9,9 +9,14 @@
 #### What is(are) the limitation(s) that possibly would be improved?
 
 ### Step 2: Target users
-#### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-#### In which context (where, why, under which conditions) would the users do that activity? 
+#### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)
+> - Demographics: Anyone who is interested in learning about music theory, but probably on the younger side (10 years old to 50 years old) since this is a website.
+> - Preference: Users who have no experience with music theory up to users who are at an intermediate level with music theory. Those who are too advanced probably wouldn't need the lessons on the website.
+> - Expertise: There are some more advanced lessons on the website, so the expertise level regarding music theory could range from beginners to intermediate. 
+#### In which context (where, why, under which conditions) would the users do that activity?
+> Users would typically use this website in their free time in their home. If they wished to learn about music for their own benefit/hobby, they would access this website in their free time probably in their own homes. Likewise, those who wanted use this website as a supplement to a music theory class would also probably access this website in their free time in their own homes.
 #### What would the users usually do in order to complete that activity? 
+> The goal of the user is to learn about music theory. To do so, they could search for a website that provides music theory lessons, which would possibly bring them to https://www.musictheory.net/. After finding a website they are satisfied with, they would either go through all the lessons, or pick and choose the lessons they want to learn. Users may also seek out an in-person class (at a local college, etc), or private in-person lessons, which wouldn't lead them to https://www.musictheory.net/.
 
 ### Step 3: Pick an qualitative research method (or a combination/adaptation of methods) 
 I conducted participatory observation/interview with 2 activities, further explained in Step 4. I spilt the interview into 6 sections:
