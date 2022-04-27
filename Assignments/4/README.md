@@ -1,6 +1,6 @@
 # DH110 Assignment 4: Persona + Scenario by Cindi Dong
 ## Introduction
-
+The purpose of UX storytelling is to put yourself into your user's shoes to better understand how to design the product for your target audience. In my case, I brainstormed 3 users/personas with varying prior knowledge on music theory and reasons to learn. To put myself in their shoes, I created empathy maps and journey maps to understand their pain points.
 
 ## New Features
 ### Landing/Front Page
