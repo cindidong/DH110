@@ -3,6 +3,13 @@
 
 
 ## New Features
+### Landing/Front Page
+- Landing page is the table of contents.
+- Remove the giant advertising for the paid app version, users will buy the app if they enjoy the free content (can add a link for more paid lessons at the end of the table of contents)
+### Lessons
+- Textbook format (all text with interactive elements scattered in-between)
+- Interactive elements (quizzes at the end of the lesson, opportunities to play the piano or the chords themselves)
+- Once you click on the menu button, it opens to a mini table of contents without going back to the table of contents page
 
 ## Personas, Scenarios, and Journey Maps
 ### Harold
@@ -48,6 +55,6 @@
 > John has been stuck on a lesson in his music production course that requires prior knowledge of basic chords for a while now. After getting off work and finishing his dinner, John decides now is as good a time as any to start learning about chords for his course. He opens his work laptop and pulls up Google. He types in "music theory chords", and clicks on the first result. John scrolls through the lesson to determine if it seems reputable. He decides this lesson looks informative but interesting, and returns to the top of the page to go through the lesson on chords. He enjoys the interactive elements interspersed throughout the text, allowing him to play the chords out loud to compare sounds and to create his own chords. Halfway through the lesson, it brings up the major scale. John realizes he forgot about scales. Since he's enjoying the lesson so far, he decides to search for the website's lesson regarding scales. He clicks on the menu button, which unfolds into a table of contents (while remaining on the chords lesson, instead of taking him to the table of contents page). He searches for the scale section, and clicks on the major scale lesson. He goes through the major scale lesson quickly, and clicks on the back button on the browser to return to the chords lesson. He completes the quiz at the end, and gets all the questions correct. John then returns back to his music production course, and finishes the lesson he was stuck on.
 
 #### Journey Map
-![JohnJourney](./OliviaJourney.png)
+![JohnJourney](./JohnJourney.png)
 
 [Figma Link](https://www.figma.com/file/2iRvvC3z3jc8Mt34MsFPq2/User-Personas?node-id=104%3A452)
