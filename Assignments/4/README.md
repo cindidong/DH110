@@ -7,6 +7,8 @@
 ## Personas, Scenarios, and Journey Maps
 ### Harold
 #### Persona + Empathy Map
+![HaroldPersona](./HaroldPersona.png)
+![HaroldEmpathy](./HaroldEmpathy.png)
 
 #### Scenario
 ##### Why?
@@ -16,10 +18,12 @@
 > Harold opens his email, and clicks on the email from his daughter containing the free music theory website link. He copies the website link and pastes it on the search bar of his browser instead of clicking on the link, and is taken to the website. Harold is greeted with a table of contents, or a list of all the lessons grouped by section, instead of a landing page with links to the paid apps (he would have trouble finding the free music lessons page). He reads the first couple section names, and realizes he doesn't know these concepts. Thus, he clicks on the first lesson in the first section. This takes him to the lesson page, which is formatted similar to a textbook (the information is laid out as text on a single page, with images and interactive elements sandwiched in-between the text), instead of a slideshow of animations (which would be confusing to him, and he wouldn't click around to figure out how to see the animations). He reads through the lesson, and continues onto the next lesson with the next button at the bottom of the lesson. Once finished with both lessons, he decides he had enough for the day. He bookmarks the page (as his daughter taught him) for next time and closes the browser.
 
 #### Journey Map
-
+![HaroldJourney](./HaroldJourney.png)
 
 ### Olivia
 #### Persona + Empathy Map
+![OliviaPersona](./OliviaPersona.png)
+![OliviaEmpathy](./OliviaEmpathy.png)
 
 #### Scenario
 ##### Why?
@@ -29,10 +33,12 @@
 > Olivia has 30 minutes before she has to go to soccer practice. She decides to spend this time looking for free music theory resources. Olivia opens her school issued Chromebook, and pulls up Google. She types in "free music theory lessons", and clicks on the first result. This leads her to the landing page with the table of contents, with the lessons separated into separate sections. She clicks into a random lesson to check if the website seems like a reputable resource. Olivia scrolls through to check the length of the lesson, which seems to have a lot of animations/pictures and interactive elements and a decent amount of text. She decides this website looks informative but interesting, and clicks the back button to go back to the table of contents. She takes a quick look at the section names, and clicks on the first lesson in the first section. She goes through the lesson, finding her attention slipping at times, but a well placed interactive element brings her back each time. She finishes the lesson, doing all the interactive elements (playing the piano in the lesson, etc), and continues to the quiz at the end of the lesson. She only missed one question. Once understanding her mistake, she moves onto the next lesson. In the middle of the lesson, she checks the time and realizes that it's time to leave for soccer practice. She closes her Chromebook and heads out for practice.
 
 #### Journey Map
-
+![OliviaJourney](./OliviaJourney.png)
 
 ### John
 #### Persona + Empathy Map
+![JohnPersona](./JohnPersona.png)
+![JohnEmpathy](./JohnEmpathy.png)
 
 #### Scenario
 ##### Why?
@@ -42,6 +48,6 @@
 > John has been stuck on a lesson in his music production course that requires prior knowledge of basic chords for a while now. After getting off work and finishing his dinner, John decides now is as good a time as any to start learning about chords for his course. He opens his work laptop and pulls up Google. He types in "music theory chords", and clicks on the first result. John scrolls through the lesson to determine if it seems reputable. He decides this lesson looks informative but interesting, and returns to the top of the page to go through the lesson on chords. He enjoys the interactive elements interspersed throughout the text, allowing him to play the chords out loud to compare sounds and to create his own chords. Halfway through the lesson, it brings up the major scale. John realizes he forgot about scales. Since he's enjoying the lesson so far, he decides to search for the website's lesson regarding scales. He clicks on the menu button, which unfolds into a table of contents (while remaining on the chords lesson, instead of taking him to the table of contents page). He searches for the scale section, and clicks on the major scale lesson. He goes through the major scale lesson quickly, and clicks on the back button on the browser to return to the chords lesson. He completes the quiz at the end, and gets all the questions correct. John then returns back to his music production course, and finishes the lesson he was stuck on.
 
 #### Journey Map
-
+![JohnJourney](./OliviaJourney.png)
 
 [Figma Link](https://www.figma.com/file/2iRvvC3z3jc8Mt34MsFPq2/User-Personas?node-id=104%3A452)
