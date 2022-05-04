@@ -40,7 +40,7 @@ Please look at the [Wire Flow Whimsical link](https://whimsical.com/dh-110-wire-
 Since my wire frames are on Whimsical, I had to adapt the test a little. I conducted this test in person, so I had the wire frames open on my computer screen. I followed the Demo Material in Note 02 of the instructions, but instead of marking on the wire frames themselves, the participant told me which element they wanted to interact with and which frame they thought would be next. Then I highlighted/created arrows for the participant at those interaction points and connected the arrow to the next frame they chose. I also noted what they said in the comment at the particular element/interaction point that sparked the comment. That way, the participant didn't have to learn how to use Whimsical.
 ### Notes
 1. The participant sucessfully completed all tasks.
-2. The comments can be found in the [Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ).
+2. For some reason, exporting the board removes the comments from the png picture, but the comments can be found in the [Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ).
 ### Legend
 - ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) ` Task 1`
 - ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) ` Task 2`
