@@ -2,13 +2,13 @@
 ## Description
 
 ### Tasks
-1. ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) `Find the first lesson (the Staff, Clefs, and Ledger Lines), then go to the next lesson (Note Duration), then go back to previous lesson (the Staff, Clefs, and Ledger Lines).`
-2. ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) ` Find a particular lesson (the Major Scale), then go to a particular lesson (the Staff, Clefs, and Ledger Lines).`
-3. ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) ` Find the paid content/app.`
+1. ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) Find the first lesson (the Staff, Clefs, and Ledger Lines), then go to the next lesson (Note Duration), then go back to previous lesson (the Staff, Clefs, and Ledger Lines).
+2. ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) Find a particular lesson (the Major Scale), then go to a particular lesson (the Staff, Clefs, and Ledger Lines).`
+3. ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) Find the paid content/app.
 
 ## Wireframes
 ![WireFrames](./WireFrames.png)
-[Wire Frames Whimsical link](https://whimsical.com/dh-110-wire-frames-8pFewvTjrHqtBBqxMr3MmS)
+Please look at the [Wire Frames Whimsical link](https://whimsical.com/dh-110-wire-frames-8pFewvTjrHqtBBqxMr3MmS) if the image is too small.
 
 ## Wireflow
 ### Legend
@@ -17,16 +17,17 @@
 - ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) ` Task 3`
 
 ![WireFlow](./WireFlow.png)
-[Wire Flow Whimsical link](https://whimsical.com/dh-110-wire-flow-F4QTy2sbHNRrqpZ4Xx7VRN)
+Please look at the [Wire Flow Whimsical link](https://whimsical.com/dh-110-wire-flow-F4QTy2sbHNRrqpZ4Xx7VRN) if the image is too small.
 
 ## Testing Wireflow
+Note: The comments are on the [Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ)
 ### Legend
 - ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) ` Task 1`
 - ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) ` Task 2`
 - ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) ` Task 3`
 
 ![TestingWireFlow](./TestingWireFlow.png)
-**Note: Please see the comments on [Whimsical](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ).**
+Please look at the [Testing Wire Flow Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ) for the comments.
 
 ## Reflection
 I found using Whimsical to create wire frames/wire flows was much easier than drawing it out (at least for me). However, I did get kind of carried away with designing it compared to if I just drew it out, as it was pretty fun to add new elements. It's definitely not the final design, but it does have more design than wire frames/wire flows usually have. When creating the wire frames/wire flows, I took into account the feedback I was given in my UT and CI. Those participants had found the website somewhat confusing. Likewise, one of my personas was Harold Miller, an elderly man who isn't tech savvy. Therefore, I wanted to keep the website simple and easy to understand. I believe I succeeded, as the participant had no trouble navigating through the website and I managed to predict their actions with my original wire flow pretty well. I also wanted to ensure the website was suitable for those with prior music theory knowledge, due to the participant in my CI and my persona John Williams. I converted the format to a textbook format, allowing for fast scans through the content. Likewise, I wanted to keep in mind my young, distractible persona of Olivia Garcia. I kept her in mind when I added interactive elements to the lessons.
