@@ -25,7 +25,8 @@
 - ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) ` Task 2`
 - ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) ` Task 3`
 
-Please see comments on [Whimsical](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ)
+**Please see comments on [Whimsical](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ)**
+
 ![TestingWireFlow](./TestingWireFlow.png)
 
 
