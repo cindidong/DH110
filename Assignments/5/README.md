@@ -36,7 +36,9 @@ Please look at the [Wire Frames Whimsical link](https://whimsical.com/dh-110-wir
 Please look at the [Wire Flow Whimsical link](https://whimsical.com/dh-110-wire-flow-F4QTy2sbHNRrqpZ4Xx7VRN) if the image is too small.
 
 ## Testing Wireflow
-Note: The comments are on the [Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ)
+### Notes
+1. The participant sucessfully completed all tasks.
+2. The comments can be found in the [Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ).
 ### Legend
 - ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) ` Task 1`
 - ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) ` Task 2`
