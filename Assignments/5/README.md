@@ -20,7 +20,7 @@ I created the following tasks to showcase the new features:
 2. ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) Find a particular lesson (the Major Scale), then go to a particular lesson (the Staff, Clefs, and Ledger Lines).`
 3. ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) Find the paid content/app.
 
-The purpose of low-fidelity prototyping to take these tasks created from the process I've detailed above to develop visuals that allow for testing of my new features' functionality and integration with the website before investing time and effort into actual development.
+The purpose of low-fidelity prototyping to take these tasks created from the process I've detailed above to develop visuals. This allows for testing of my new features' functionality and integration with the website before investing time and effort into actual development.
 
 ## Wireframes
 ![WireFrames](./WireFrames.png)
