@@ -1,5 +1,18 @@
 # DH110 Assignment 5: Low Fidelity Prototype by Cindi Dong
 ## Description
+For my project, I have chosen to redesign https://www.musictheory.net/ with the goal of providing a fun, easy to understand way to learn music theory. From my user research/UI/CI testing, I learned that the website's animations are deeply flawed. Either users can't figure out how to play the animations, or they don't find them engaging or useful at all. In addition, I found users tend to prefer a more simple website, rather than a flashy one. From my CI testing, I learned that this website doesn't actually appeal to those with an intermediate knowledge of music theory at all, as they prefer a more textbook format they could skim over to brush up on their knowledge. In addition, I discovered that most users aren't interested in music theory itself, instead just learning music theory to improve on other skills they found more interesting (such as singing, piano, etc). With these discoveries in mind, I created 3 personas summarized below.
+- Harold Miller is a 65 year old man who is looking to learn guitar to play along to his favorite band, the Beatles. He just needs to learn how to read sheet music, and is not very tech savvy. He needs a simple, easy to navigate website or else he will get overwhelmed. Since he's a beginner, his scenario consists of him discovering the website and starting from the beginning with the first lesson.
+- Olivia Garcia is a 11 year old girl learning how to play piano. She needs to learn music theory to improve at piano, but is very easily distracted and full of energy (as she is a child). She needs a heavily interactive website, with lots of content to keep her entertained. Olivia is also a beginner, so her scenario consists of her discovering the website and completing the first lesson as well.
+- John Williams is a 45 year old man who has prior knowledge of music theory. He is currently going through a music production course, and needs to brush up on some concepts. He needs to be able to easily search for a particular concept, and learn it quickly. His scenario sees him jumping from lesson to lesson. He originally discovers the website to learn about chords, but needs to complete the major scales lesson before continuing with the chords lesson.
+
+From these scenarios, I came up with new features:
+##### Landing/Front Page
+- Landing page is the table of contents.
+- Remove the giant advertising for the paid app version, users will buy the app if they enjoy the free content (can add a link for more paid lessons at the end of the table of contents)
+##### Lessons
+- Textbook format (all text with interactive elements scattered in-between)
+- Interactive elements (quizzes at the end of the lesson, opportunities to play the piano or the chords themselves)
+- Once you click on the menu button, it opens to a mini table of contents without going back to the table of contents page
 
 ### Tasks
 1. ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) Find the first lesson (the Staff, Clefs, and Ledger Lines), then go to the next lesson (Note Duration), then go back to previous lesson (the Staff, Clefs, and Ledger Lines).
