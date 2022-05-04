@@ -14,10 +14,12 @@ From these scenarios, I came up with new features:
 - Interactive elements (quizzes at the end of the lesson, opportunities to play the piano or the chords themselves)
 - Once you click on the menu button, it opens to a mini table of contents without going back to the table of contents page
 
-### Tasks
+I created the following tasks to showcase the new features:
 1. ![#D3455B](https://via.placeholder.com/15/D3455B/000000?text=+) Find the first lesson (the Staff, Clefs, and Ledger Lines), then go to the next lesson (Note Duration), then go back to previous lesson (the Staff, Clefs, and Ledger Lines).
 2. ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) Find a particular lesson (the Major Scale), then go to a particular lesson (the Staff, Clefs, and Ledger Lines).`
 3. ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) Find the paid content/app.
+
+The purpose of low-fidelity prototyping to take these tasks created from the process I've detailed above to develop visuals that properly test my new features' functionality and integration with the website.
 
 ## Wireframes
 ![WireFrames](./WireFrames.png)
