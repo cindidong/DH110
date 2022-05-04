@@ -46,7 +46,9 @@ Since my wire frames are on Whimsical, I had to adapt the test a little. I condu
 - ![#1AAE9F](https://via.placeholder.com/15/1AAE9F/000000?text=+) ` Task 2`
 - ![#730FC3](https://via.placeholder.com/15/730FC3/000000?text=+) ` Task 3`
 
-![TestingWireFlow](./TestingWireFlow.png)
+![Task1TestingWireFlow](./Task1TestingWireFlow.png)
+![Task2TestingWireFlow](./Task2TestingWireFlow.png)
+![Task3TestingWireFlow](./Task3TestingWireFlow.png)
 Please look at the [Testing Wire Flow Whimsical link](https://whimsical.com/dh-110-testing-wire-flow-RNMQqsmtNKkvVCLBL4emfZ) for the comments.
 
 ## Reflection
