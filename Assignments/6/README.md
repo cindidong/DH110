@@ -48,6 +48,6 @@ https://youtu.be/r1hdPrT2sJQ
 - Lesson Title/NavBar Title: Jost, 40
 - Body/Table of Contents Links: Open Sans, 24
 - Button: Jost, 20
-> As I aimed to make the website seem a little more modern, I chose the sans-serif font of Jost for my headers. It looks very clean and modern. I chose the Sans Serif font of Open Sans for the body text in the lesson, because it's thicker than Raleway (and thus easier to read), while remaining clean and easy to read. I used 40pt font for my page headers, 
+> As I aimed to make the website seem a little more modern, I chose the sans-serif font of Jost for my headers. It looks very clean, modern, and easy to read. To me, it feels playful, inviting, and friendly. In addition, there were many different weight options. I was working with a 14" MacBook Pro, so I couldn't make the text too big. However, small, cramped text makes the user lose interest, so I made the page headers size 43. I chose the sans-serif font of Open Sans for the body text in the lesson. It's more condensed than Jost (the characters are closer together), while remaining easy to read. I made the body text size 24, as to be almost half of the headers while still remaining readable.
 
 ### Layout
