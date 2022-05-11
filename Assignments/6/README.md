@@ -21,10 +21,10 @@
 ## Impression Test
 [Youtube Link](https://youtu.be/r1hdPrT2sJQ)
 ### Overall Impression
-The participant could tell immediately what the website was for, and thought the website looked interesting.
+The participant could tell immediately that the website was for learning music theory, and thought it looked interesting.
 
 ### Typography
-The participant preferred the last variant, as they described it as having more "character" than the other fonts. I was surprised by this, as I had designed the website with the first variant's font in mind. I did see their point, as I found the last variant's font to be more modern and playful.
+The participant preferred the last variant, as they described it as having more "character" than the other fonts. I was surprised by this, as I had designed the website with the first variant's font in mind. I did see their point, as I found the last variant's font to be more modern and playful than the first one.
 
 ### Shape 
 The participant preferred rounder buttons, but stated that this might be a personal preference. They did not like the rectangle buttons on the last variant, stating that it makes the website look unfinished.
@@ -62,5 +62,5 @@ The participant preferred the second variant, as they preferred the higher contr
 > As I aimed to make the website seem a little more modern, I chose the sans-serif font of Jost for my headers. It looks very clean, slightly modern, and easy to read. To me, it feels playful, inviting, and friendly. In addition, there were many different weight options. I was working with a 14" MacBook Pro, so I couldn't make the text too big. However, small, cramped text makes the user lose interest, so I made the page headers size 43. I chose the sans-serif font of Open Sans for the body text in the lesson. It's more condensed than Jost (the characters are closer together), while remaining easy to read. I made the body text size 24, as to be almost half of the headers while still remaining readable.
 
 ### Layout
-- Grid: 40px grid (distance between each grid space is 40px)
+- Grid: 40px grid (distance between each grid box is 40px)
 > I chose a 40px grid instead of doing rows/columns, because my website has a lot of lines of text (table of contents page). Thus, a smaller grid allows me to arrange these lines of text appropriately, while still allowing me to add chunks of text or images later on (the lessons page). I had margins of 1 grid box (40px).
