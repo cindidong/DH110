@@ -40,6 +40,9 @@ The participant preferred the second variant, as they preferred the higher contr
 ### Results
 I changed my design to have the 3rd typography (Jost) variant and the 2nd color variant (lighter background).
 
+## Final Design
+![FinalDesign](./FinalDesign.png)
+
 ## Accessibility Check
 ### Background Color Contrast Check
 ![ContrastCheckBackground](./ContrastCheckBackground.png)
