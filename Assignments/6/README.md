@@ -30,3 +30,10 @@ https://youtu.be/r1hdPrT2sJQ
 ![ContrastCheckQuiz](./ContrastCheckQuiz.png)
 
 ## Design System
+![Styles](./Styles.png)
+
+### Typeface
+
+### Color Scheme
+
+### Layout
