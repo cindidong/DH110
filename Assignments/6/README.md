@@ -41,13 +41,15 @@ https://youtu.be/r1hdPrT2sJQ
 #### Accent Colors
 - Pink (for quiz section, buttons, cards): #E1C3CF
 - Green (for navbar, buttons, cards, sign in/sign up modal): #1F381B
-> I went back and forth with the color scheme. I knew I wasn't going to follow the https://www.musictheory.net theme, as it is quite simple and designed for a mobile experience. When I started working on this, I had planned to go with a more academic color palette (beiges, tans, neutrals) reminiscent of coffee, but I thought it was rather boring and old looking once on Figma (3rd variation in Color Variations section). I wanted to make the website a little more visually interesting and slightly modernized, so I added the pink and green colors for an accent.
+> I went back and forth with the color scheme. I knew I wasn't going to follow the https://www.musictheory.net theme, as it is quite simple and designed for a mobile experience. When I started working on this, I had planned to go with a more academic color palette (beiges, tans, neutrals) reminiscent of coffee, but I thought it was rather boring and old looking once on Figma (can be seen in the 3rd variation in Color Variations section). I wanted to make the website more visually interesting and slightly modernized, so I added the pink and green colors as accent colors.
 
 ### Typeface
 - Page Headers: Jost, 43
 - Lesson Title/NavBar Title: Jost, 40
 - Body/Table of Contents Links: Open Sans, 24
 - Button: Jost, 20
-> As I aimed to make the website seem a little more modern, I chose the sans-serif font of Jost for my headers. It looks very clean, modern, and easy to read. To me, it feels playful, inviting, and friendly. In addition, there were many different weight options. I was working with a 14" MacBook Pro, so I couldn't make the text too big. However, small, cramped text makes the user lose interest, so I made the page headers size 43. I chose the sans-serif font of Open Sans for the body text in the lesson. It's more condensed than Jost (the characters are closer together), while remaining easy to read. I made the body text size 24, as to be almost half of the headers while still remaining readable.
+> As I aimed to make the website seem a little more modern, I chose the sans-serif font of Jost for my headers. It looks very clean, slightly modern, and easy to read. To me, it feels playful, inviting, and friendly. In addition, there were many different weight options. I was working with a 14" MacBook Pro, so I couldn't make the text too big. However, small, cramped text makes the user lose interest, so I made the page headers size 43. I chose the sans-serif font of Open Sans for the body text in the lesson. It's more condensed than Jost (the characters are closer together), while remaining easy to read. I made the body text size 24, as to be almost half of the headers while still remaining readable.
 
 ### Layout
+- Grid: 40px grid (distance between each grid space is 40px)
+> I chose a 40px grid instead of doing rows/columns, because my website has a lot of lines of text (table of contents page) rather than images/cards. Thus, a smaller grid allows me to arrange these lines of text appropriately, while still allowing me to add chunks of text later on (the lessons page). I had margins of 1 grid box (40px).
