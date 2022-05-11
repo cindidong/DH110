@@ -32,8 +32,6 @@ https://youtu.be/r1hdPrT2sJQ
 ## Design System
 ![Styles](./Styles.png)
 
-### Typeface
-
 ### Color Scheme
 - Background: #EBDED1
 - Header Text: #5A340E
@@ -44,5 +42,12 @@ https://youtu.be/r1hdPrT2sJQ
 - Pink (for quiz section, buttons, cards): #E1C3CF
 - Green (for navbar, buttons, cards, sign in/sign up modal): #1F381B
 > I went back and forth with the color scheme. I knew I wasn't going to follow the https://www.musictheory.net theme, as it is quite simple and designed for a mobile experience. When I started working on this, I had planned to go with a more academic color palette (beiges, tans, neutrals) reminiscent of coffee, but I thought it was rather boring and old looking once on Figma (3rd variation in Color Variations section). I wanted to make the website a little more visually interesting and slightly modernized, so I added the pink and green colors for an accent.
+
+### Typeface
+- Page Headers: Jost, 43
+- Lesson Title/NavBar Title: Jost, 40
+- Body/Table of Contents Links: Open Sans, 24
+- Button: Jost, 20
+> As I aimed to make the website seem a little more modern, I chose the sans-serif font of Jost for my headers. It looks very clean and modern. I chose the Sans Serif font of Open Sans for the body text in the lesson, because it's thicker than Raleway (and thus easier to read), while remaining clean and easy to read. I used 40pt font for my page headers, 
 
 ### Layout
