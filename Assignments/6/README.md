@@ -5,6 +5,8 @@
 ## Screen Design
 
 ### Layout Design
+![SingleGrid](./SingleGrid.png)
+![MultipleGrid](./MultipleGrid.png)
 
 ### Typographic Variations
 ![TypographicVariation](./TypographicVariation.png)
