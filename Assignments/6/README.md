@@ -35,5 +35,14 @@ https://youtu.be/r1hdPrT2sJQ
 ### Typeface
 
 ### Color Scheme
+- Background: #EBDED1
+- Header Text: #5A340E
+- Body Text: #3C2415
+- Link: #6558F5
+- Disabled Link: #5F5E70
+#### Accent Colors
+- Pink (for quiz section, buttons, cards): #E1C3CF
+- Green (for navbar, buttons, cards, sign in/sign up modal): #1F381B
+> I went back and forth with the color scheme. I knew I wasn't going to follow the https://www.musictheory.net theme, as it is quite simple and designed for a mobile experience. When I started working on this, I had planned to go with a more academic color palette (beiges, tans, neutrals) reminiscent of coffee, but I thought it was rather boring and old looking once on Figma (3rd variation in Color Variations section). I wanted to make the website a little more visually interesting and slightly modernized, so I added the pink and green colors for an accent.
 
 ### Layout
