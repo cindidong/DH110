@@ -22,8 +22,11 @@
 https://youtu.be/r1hdPrT2sJQ
 
 ## Accessibility Check
+### Background Color Contrast Check
 ![ContrastCheckBackground](./ContrastCheckBackground.png)
+### Button Color Contrast Check
 ![ContrastCheckButton](./ContrastCheckButton.png)
+### Quiz Color Contrast Check
 ![ContrastCheckQuiz](./ContrastCheckQuiz.png)
 
 ## Design System
