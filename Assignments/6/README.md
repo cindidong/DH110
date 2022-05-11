@@ -1,6 +1,7 @@
 # DH110 Assignment 6: Interface Design by Cindi Dong
 
 ## Description
+The goal of this assignment is to redesign https://www.musictheory.net into a more fun, interactive way to learn about music theory.
 
 ## Screen Design
 [Figma Link](https://www.figma.com/file/GRkSbG8OGLDvrIpTIYnf0m/Materal-Design-for-desktop---Dashboard-UI-kit?node-id=13%3A3633)
@@ -31,6 +32,9 @@ The participant preferred rounder buttons, but stated that this might be a perso
 
 ### Color 
 The participant preferred the second variant, as they preferred the higher contrast between the background and the text (compared to the first variant). I was also surprised by this, as I designed the website with the first variant. They also liked the idea of a dark mode.
+
+### Results
+I changed my design to have the 3rd typography (Jost) variant and the 2nd color variant (lighter background).
 
 ## Accessibility Check
 ### Background Color Contrast Check
