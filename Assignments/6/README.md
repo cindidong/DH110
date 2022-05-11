@@ -1,8 +1,10 @@
 # DH110 Assignment 6: Interface Design by Cindi Dong
 
 ## Description
-The goal of this assignment is to redesign https://www.musictheory.net into a more fun, interactive way to learn about music theory. To do so, I started with my [low fidelity prototypes from the previous assignment](https://github.com/cindidong/DH110/blob/main/Assignments/5/README.md). Those provided me with a base as I created the pages/frames on Figma. Since my application is a website, I chose the 14" MacBook Pro frame for my screen size. Once I had the functionality of the design, I developed the style of the website (color scheme, typography, shapes, etc). I used Google Fonts to pick out the fonts, and Material UI for style reference. For my example wire frame, I created the first lesson's page. I couldn't fit all the content of a lesson in one frame, but I wanted to show the quiz at the end and the next/previous lesson buttons. Therefore, I just used ... to show that there's more content in the lesson.
+The goal of this assignment is to redesign https://www.musictheory.net into a more fun, interactive way to learn about music theory. To do so, I started with my [low fidelity prototypes from the previous assignment](https://github.com/cindidong/DH110/blob/main/Assignments/5/README.md). Those provided me with a base as I created the pages/frames on Figma. Since my application is a website, I chose the 14" MacBook Pro frame for my screen size. Once I had the functionality of the design, I developed the style of the website (color scheme, typography, shapes, etc). I used Google Fonts to pick out the fonts, and Material UI for style reference. For my example wire frame, I created the first lesson's page. I couldn't fit all the content of a lesson in one frame (I also don't have enough music theory knowledge to redesign/create the lesson, as the old lesson is missing some information), but I wanted to show the quiz at the end and the next/previous lesson buttons. Therefore, I just used "..." to show that there's more content in the lesson before the quiz.
+
 ![ExampleWireFrame](./ExampleWireFrame.png)
+
 My process and final wire frames can be found in my [Figma file](https://www.figma.com/file/GRkSbG8OGLDvrIpTIYnf0m/Materal-Design-for-desktop---Dashboard-UI-kit?node-id=13%3A631).
 
 ## Screen Design
