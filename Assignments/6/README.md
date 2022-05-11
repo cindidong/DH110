@@ -19,7 +19,18 @@
 ![ColorVariation](./ColorVariation.png)
 
 ## Impression Test
-https://youtu.be/r1hdPrT2sJQ
+[Youtube Link](https://youtu.be/r1hdPrT2sJQ)
+### Overall Impression
+The participant could tell immediately what the website was for, and thought the website looked interesting.
+
+### Typography
+The participant preferred the last variant, as they described it as having more "character" than the other fonts. I was surprised by this, as I had designed the website with the first variant's font in mind. I did see their point, as I found the last variant's font to be more modern and playful.
+
+### Shape 
+The participant preferred rounder buttons, but stated that this might be a personal preference. They did not like the rectangle buttons on the last variant, stating that it makes the website look unfinished.
+
+### Color 
+The participant preferred the second variant, as they preferred the higher contrast between the background and the text (compared to the first variant). I was also surprised by this, as I designed the website with the first variant. They also liked the idea of a dark mode.
 
 ## Accessibility Check
 ### Background Color Contrast Check
@@ -52,4 +63,4 @@ https://youtu.be/r1hdPrT2sJQ
 
 ### Layout
 - Grid: 40px grid (distance between each grid space is 40px)
-> I chose a 40px grid instead of doing rows/columns, because my website has a lot of lines of text (table of contents page) rather than images/cards. Thus, a smaller grid allows me to arrange these lines of text appropriately, while still allowing me to add chunks of text later on (the lessons page). I had margins of 1 grid box (40px).
+> I chose a 40px grid instead of doing rows/columns, because my website has a lot of lines of text (table of contents page). Thus, a smaller grid allows me to arrange these lines of text appropriately, while still allowing me to add chunks of text or images later on (the lessons page). I had margins of 1 grid box (40px).
