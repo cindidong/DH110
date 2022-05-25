@@ -1,6 +1,7 @@
 # DH110 Assignment 7: High Fidelity Prototype by Cindi Dong
 
 ## Description
+The purpose of this assignment is to develop a high fidelity prototype of my redesign of https://www.musictheory.net/ (rebranded as Learn Music Theory). This is to mainly validate the interaction flow sketched out in the low fidelity prototype, and to continue improving upon the interface design. I used Figma to create wire frames, and Figma's prototyping tools to create these high fidelity prototypes. Then, I conducted cognitive walkthroughs and UT testing to continue improving upon these high fidelity prototypes.
 
 ### Tasks
 - Not logged in: Navigate to 3 lessons and complete (by finishing the end of lesson quiz) 2 lessons.
@@ -52,7 +53,7 @@ I conducted this cognitive walkthrough in class, with my peers. I used this [Goo
 - Participant caught my error of not connecting the sign up popup to the "Sign up to unlock more content" text in the Table of Contents page. The "Sign up" part of the text is in the unvisited link color, which caused them to click on the "Sign up" part. Nothing happened, as I had forgotten to connect this to the sign up popup.
 
 ### Iteration 3 (Final)
-#### Combined
+#### General Navigation
 ![Iteration3](./Iteration3.png)
 
 [Figma File](https://www.figma.com/file/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2652)
