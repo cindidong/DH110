@@ -4,10 +4,11 @@
 
 ### Tasks
 - Navigate to 3 lessons and "complete" 2 lessons.
-- Login, "purchase" the rest of the content, and see completed lessons.
+- Login and "purchase" the rest of the content.
 
 ## Prototype
 ### Iteration 1
+
 [Figma Link to Wireflow](https://www.figma.com/file/r0msWDlELGlAJWSloyPOQg/Cognitive-Walkthrough?node-id=117%3A2652)
 
 [Figma Link To Prototype](https://www.figma.com/proto/r0msWDlELGlAJWSloyPOQg/Cognitive-Walkthrough?node-id=117%3A2653&scaling=scale-down&page-id=117%3A2652&starting-point-node-id=117%3A2653)
