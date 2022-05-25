@@ -61,6 +61,18 @@ I conducted this cognitive walkthrough in class, with my peers. I used this [Goo
 [Figma Prototype](https://www.figma.com/proto/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2653&scaling=scale-down&page-id=117%3A2652&starting-point-node-id=117%3A2653)
 
 #### Progress
+##### Supported Path
+- Starting from the Home page, go to the Table of Contents page.
+- Either click on the sign in/sign up button in the NavBar, or the "Sign up to unlock more content" text to activate the sign in/sign up popup.
+- Sign in or sign up, then "purchase" more content.
+- Go to the first lesson (The Staff, Clefs, and Ledger Lines).
+- View the mini table of contents, then scroll down to the quiz. 
+- Complete the quiz, and click on the next lesson.
+- View the mini table of contents, and expand "The Basics". Then expand "Scales and Key Signatures" to click on the Major Scale lesson.
+- View the mini table of contents, then scroll down to the quiz. 
+- Complete the quiz, and click on the table of contents button.
+- View the completed lessons in the Table of Contents page.
+
 ![Iteration3Progress](./Iteration3Progress.png)
 
 [Figma File](https://www.figma.com/file/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=313%3A3)
