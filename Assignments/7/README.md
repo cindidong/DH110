@@ -90,3 +90,6 @@ Supported Path:
 #### Changes
 - Added sign in/sign up popup to "Sign up to unlock more content" in the Table of Contents page.
 - Spilt prototype into 2 flows/tasks - one for normal navigation through the website, and one to display how the website deals with user progress.
+
+#### Completed Lessons/User Progress
+![TABCompleted](./TABCompleted.png)
