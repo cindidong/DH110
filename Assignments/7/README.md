@@ -15,6 +15,12 @@
 [Figma Prototype](https://www.figma.com/proto/r0msWDlELGlAJWSloyPOQg/Cognitive-Walkthrough?node-id=117%3A2653&scaling=scale-down&page-id=117%3A2652&starting-point-node-id=117%3A2653)
 
 ### Cognitive Walkthrough
+[Link to Comments](https://docs.google.com/document/d/1SOS-NN-_a3UrTWoGuX56GD1WqbyoErZwoCBFRIQ4-U8/edit)
+#### Summary
+- Participants all commented that there was no way for a user to feel as if they're making progress towards their goal (learning music theory).
+- Participant thought the purple link color was confusing (as purple usually means a link has already been visited). They liked the idea of it being obviously a link, and recommended making it blue instead (for an unvisited link).
+- Participants thought the discrepancy between the "Free Music Theory Lessons" card on the Home page and "Table of Contents" button in the NavBar was confusing.
+#### Reflection
 
 
 ### Iteration 2
@@ -29,6 +35,7 @@
 - Must finish quiz to "complete" a lesson.
 - Added ability to retake quiz.
 - Changed links to lessons to standard blue color when not visited, and standard purple color when visited (matching HTML link behavior).
+- Changed the "Free Music Theory Lessons" card on the Home Page to "Table of Contents".
 
 ### UT Testing
 [Participant link to survey](https://forms.gle/4chXd5oDrXBnaATR6)
