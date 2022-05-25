@@ -21,7 +21,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Conclusion: 
 What did you learn throughout the process?
 
-<img src=”url” height=”300px”>
+<img src=”https://cindidong.github.io/DH110/Assignments/6/FinalDesign.png” height=”300px”>
 
 <!-- blank line -->
 <figure class="video_container">
