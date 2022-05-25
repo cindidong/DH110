@@ -8,7 +8,7 @@
 
 ## Prototype
 ### Iteration 1
-![ExampleWireFrame](./ExampleWireFrame.png)
+![Iteration1](./Iteration1.png)
 
 [Figma Link to Wireflow](https://www.figma.com/file/r0msWDlELGlAJWSloyPOQg/Cognitive-Walkthrough?node-id=117%3A2652)
 
@@ -17,7 +17,7 @@
 ### Cognitive Walkthrough
 
 ### Iteration 2
-![ExampleWireFrame](./ExampleWireFrame.png)
+![Iteration2](./Iteration2.png)
 
 [Figma Link to Wireflow](https://www.figma.com/file/Hg4KMbU53R7l7LcXRgAiyJ/Cognitive-Walkthrough-2nd-Draft?node-id=117%3A2652)
 
@@ -36,7 +36,7 @@
 
 ### Iteration 3 (Final)
 #### Combined
-![ExampleWireFrame](./ExampleWireFrame.png)
+![Iteration3](./Iteration3.png)
 
 [Figma Link to Wireflow](https://www.figma.com/file/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2652)
 
@@ -45,7 +45,7 @@
 #### Changes
 
 #### Progress
-![ExampleWireFrame](./ExampleWireFrame.png)
+![Iteration3Progress](./Iteration3Progress.png)
 
 [Figma Link to Wireflow](https://www.figma.com/file/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=313%3A3)
 
