@@ -16,6 +16,7 @@
 
 ### Cognitive Walkthrough
 
+
 ### Iteration 2
 ![Iteration2](./Iteration2.png)
 
@@ -37,6 +38,11 @@
 [Link to UT testing YouTube video with screen recording](https://youtu.be/eqiJ-iYZjSw)
 
 #### Summary
+- Participant was able to navigate around the new website much more easily than the old version.
+- Participant liked the new design/color palette of the website.
+- Participant thought website was boring with no interactive elements within the lesson (which I had planned to include, but I couldn't find any to put into my prototype).
+- Participant went to the My Account page first to find the completed lessons, then went to the Table of Contents page. Ultimately, they said they preferred the completed lessons/user progress to be presented as a checkmark next to the completed lesson's name in the Table of Contents page instead of listed in the My Account page.
+- Participant caught my error of not connecting the sign up popup to the "Sign up to unlock more content" text in the Table of Contents page. The "Sign up" part of the text is in the unvisited link color, which caused them to click on the "Sign up" part. Nothing happened, as I had forgotten to connect this to the sign up popup.
 
 ### Iteration 3 (Final)
 #### Combined
