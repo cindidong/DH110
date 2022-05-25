@@ -1,7 +1,7 @@
 # DH110 Assignment 7: High Fidelity Prototype by Cindi Dong
 
 ## Description
-The purpose of this assignment is to develop a high fidelity prototype of my redesign of https://www.musictheory.net/ (rebranded as Learn Music Theory). This is to mainly validate the interaction flow sketched out in the low fidelity prototype, and to continue improving upon the interface design. I used Figma to create wire frames, and Figma's prototyping tools to create these high fidelity prototypes. Then, I conducted cognitive walkthroughs and UT testing to continue improving upon these high fidelity prototypes.
+The purpose of this assignment is to develop a high fidelity prototype of my redesign of https://www.musictheory.net/ (rebranded as Learn Music Theory). This is to mainly validate the interaction flow sketched out in the low fidelity prototype, and to continue improving upon the interface design. I used Figma to create wire frames, and Figma's prototyping tools to create these high fidelity prototypes. Then, I conducted cognitive walkthroughs and usability testing (UT) to continue improving upon these high fidelity prototypes.
 
 ### Tasks
 - Not logged in: Navigate to 3 lessons and complete (by finishing the end of lesson quiz) 2 lessons.
