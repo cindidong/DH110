@@ -4,7 +4,7 @@
 
 ### Tasks
 - Not logged in: Navigate to 3 lessons and complete (by finishing the end of lesson quiz) 2 lessons.
-- Logged in: "Purchase" the rest of the content and view user progress.
+- Logged in: Login, "purchase" the rest of the content, and view user progress.
 
 ## Prototype
 ### Iteration 1
