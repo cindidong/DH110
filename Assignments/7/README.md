@@ -53,15 +53,19 @@ I conducted this cognitive walkthrough in class, with my peers. I used this [Goo
 - Participant caught my error of not connecting the sign up popup to the "Sign up to unlock more content" text in the Table of Contents page. The "Sign up" part of the text is in the unvisited link color, which caused them to click on the "Sign up" part. Nothing happened, as I had forgotten to connect this to the sign up popup.
 
 ### Iteration 3 (Final)
-#### General Navigation
+#### Main Flow/General Navigation
+Starting from the Home page, the user can either sign in/sign up, or go to the Table of Contents page. From there, the user has the freedom to choose where to go. The only thing that this prototype flow doesn't support is the completed lessons/user progress function, which is discussed below in the notes section.
+
 ![Iteration3](./Iteration3.png)
 
 [Figma File](https://www.figma.com/file/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2652)
 
 [Figma Prototype](https://www.figma.com/proto/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2653&scaling=scale-down&page-id=117%3A2652&starting-point-node-id=117%3A2653)
 
-#### Progress
-##### Supported Path
+#### Progress Flow
+This is a separate prototype flow that focuses on the completed lessons/user progress function, which is discussed below in the notes section.
+
+Supported Path:
 - Starting from the Home page, go to the Table of Contents page.
 - Either click on the sign in/sign up button in the NavBar, or the "Sign up to unlock more content" text to activate the sign in/sign up popup.
 - Sign in or sign up, then "purchase" more content.
