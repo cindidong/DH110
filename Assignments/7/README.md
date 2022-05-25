@@ -21,7 +21,7 @@
 - Participant thought the purple link color was confusing (as purple usually means a link has already been visited). They liked the idea of it being obviously a link, and recommended making it blue instead (for an unvisited link).
 - Participants thought the discrepancy between the "Free Music Theory Lessons" card on the Home page and "Table of Contents" button in the NavBar was confusing.
 #### Reflection
-
+I conducted this cognitive walkthrough in class, with my peers. I used this [Google Form provided in class](https://forms.gle/medD2E1pU6PnJeeo7) as a script, and the participants filled out the [reviewer form provided in class](https://forms.gle/b4ZAd5yDbuoVHL2PA). I found this very insightful, as I had not thought about users feeling as if they're making progress towards their goal. I more thought of this as an informative website, similar to a textbook. Someone in my group had also chosen to redesign https://www.musictheory.net/, and I found it interesting to see how we designed our prototypes differently. I chose to completely redesign it, and she chose to keep more of the original elements of the website (such as the animations).
 
 ### Iteration 2
 ![Iteration2](./Iteration2.png)
