@@ -66,16 +66,16 @@ Starting from the Home page, the user can either sign in/sign up, or go to the T
 This is a separate prototype flow that focuses on the completed lessons/user progress function, which is discussed below in the notes section.
 
 Supported Path:
-- Starting from the Home page, go to the Table of Contents page.
-- Either click on the sign in/sign up button in the NavBar, or the "Sign up to unlock more content" text to activate the sign in/sign up popup.
-- Sign in or sign up, then "purchase" more content.
-- Go to the first lesson (The Staff, Clefs, and Ledger Lines).
-- View the mini table of contents, then scroll down to the quiz. 
-- Complete the quiz, and click on the next lesson.
-- View the mini table of contents, and expand "The Basics". Then expand "Scales and Key Signatures" to click on the Major Scale lesson.
-- View the mini table of contents, then scroll down to the quiz. 
-- Complete the quiz, and click on the table of contents button.
-- View the completed lessons in the Table of Contents page.
+1. Starting from the Home page, go to the Table of Contents page.
+2. Either click on the sign in/sign up button in the NavBar, or the "Sign up to unlock more content" text to activate the sign in/sign up popup.
+3. Sign in or sign up, then "purchase" more content.
+4. Go to the first lesson (The Staff, Clefs, and Ledger Lines).
+5. View the mini table of contents, then scroll down to the quiz. 
+6. Complete the quiz, and click on the next lesson.
+7. View the mini table of contents, and expand "The Basics". Then expand "Scales and Key Signatures" to click on the Major Scale lesson.
+8. View the mini table of contents, then scroll down to the quiz. 
+9. Complete the quiz, and click on the table of contents button.
+10. View the completed lessons in the Table of Contents page.
 
 ![Iteration3Progress](./Iteration3Progress.png)
 
