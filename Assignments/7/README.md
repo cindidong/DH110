@@ -3,8 +3,8 @@
 ## Description
 
 ### Tasks
-- Navigate to 3 lessons and "complete" 2 lessons.
-- Login and "purchase" the rest of the content.
+- Not logged in: Navigate to 3 lessons and complete (by finishing the end of lesson quiz) 2 lessons.
+- Logged in: "Purchase" the rest of the content and view user progress.
 
 ## Prototype
 ### Iteration 1
@@ -45,8 +45,6 @@
 [Figma File](https://www.figma.com/file/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2652)
 
 [Figma Prototype](https://www.figma.com/proto/ydwJChLGVRTIUWu33gTjJt/Final-Assignment-7?node-id=117%3A2653&scaling=scale-down&page-id=117%3A2652&starting-point-node-id=117%3A2653)
-
-#### Changes
 
 #### Progress
 ![Iteration3Progress](./Iteration3Progress.png)
