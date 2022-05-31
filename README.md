@@ -10,13 +10,33 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 See more [here](https://cindidong.github.io/DH110/Assignments/1/).
 
 #### Usability Testing
+I chose https://www.musictheory.net/ as the website I was going to redesign. This was because I thought it was a little more interesting content wise, with animations. I then ran an usability test on https://www.musictheory.net/ to understand what a target user would think of this website.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfO5F0VYkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Summary
+- The participant did not explore the website/click around as much as I expected, and didn't discover that the lessons were animations. They did not click the forward or backwards arrows to advance the animation, and instead focused on reading the script below to obtain the information.
+- The participant did not end up finding the sound button in the lesson that plays the intended sound.
+- The participant had trouble discovering the free lessons, as they clicked on the large cards redirecting to the paid app.
+- The participant would not have discovered some features (image mode) without prompting from the task.
+- From this, I learned to keep the website simple, so everyone could easily figure it out. Extra features are unnecessary if no one can discover them. Likewise, I learned to keep the advertising for the paid apps to a minimum.
 See more [here](https://cindidong.github.io/DH110/Assignments/2/).
 
-### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+### User research
+After the usability test, I wanted to see how users would actually use the website using contextual inquiry. Thus, I conducted a participatory observation/interview with a participant who was interested in music. This interview gave me some key insights into how my target demographic actually wanted.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ikB133o7Uak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Summary
+- The participant preferred in-person classes.
+- The participant was only interested in music theory to supplement and improve their other musical pursuits (piano and singing), and thus preferred music theory lessons to be tailored to their weak points.
+- Intermediate music theory learners would not actually use this website. As someone who is an intermediate level in music theory, the participant noted that the lessons themselves were not as detailed as they should be and that even the more advanced topics weren't as advanced as I had thought. This changed my target users to just beginners, and not intermediate users looking for a quick refresher or for more advanced lessons.
+- The participant preferred a more textbook format. This was because the textbook format (a page with all the information laid out in text on it) allowed them to quickly scan for relevant information. As https://www.musictheory.net/ is more interactive and has animations/slideshows, it's much harder to quickly scan through the entire lesson for relevant sections. An intermediate level in music theory would do this a lot more than beginners.
+- The participant didn't want to spend too long looking for a music theory resource. During their search for a music theory resource, they Googled "music theory educational resource" and clicked on the first link.
+- From this, I learned that most users aren't interested in music theory on its own, instead learning music theory to supplement their other musical pursuits. Thus, they prefer a more simple design (textbook format) with interactive elements to keep it fresh.
 See more [here](https://cindidong.github.io/DH110/Assignments/3/).
 
-### UX storytelling [persona+scenario, assignment05]
+### UX storytelling
 The purpose of UX storytelling is to put yourself into your user's shoes to better understand how to design the product for your target audience. In my case, I brainstormed 3 users/personas with varying prior knowledge on music theory and reasons to learn about music theory. To put myself in their shoes, I created empathy maps and journey maps to understand their pain points.
 <table>
   <tr>
@@ -99,6 +119,6 @@ See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 - Participant caught my error of not connecting the sign up popup to the "Sign up to unlock more content" text in the Table of Contents page. The "Sign up" part of the text is in the unvisited link color, which caused them to click on the "Sign up" part. Nothing happened, as I had forgotten to connect this to the sign up popup.
 
 See more [here](https://cindidong.github.io/DH110/Assignments/7/).
-### Pitch video 
+### Pitch video
 ### Conclusion
 What did you learn throughout the process?
