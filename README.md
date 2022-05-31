@@ -56,8 +56,13 @@ The purpose of low-fidelity prototyping to take these tasks created from the pro
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/RNMQqsmtNKkvVCLBL4emfZ"></iframe>
 See more [here](https://cindidong.github.io/DH110/Assignments/5/).
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+### High-fidelity prototype
+Using the low-fidelity prototype, I developed some interface designs and turned them into high-fidelity prototypes using Figma. I have two prototypes, as Figma does not save the state. Therefore it's difficult to include the completed lessons/user progress within my main flow. Thus, I have a prototype with a more strict path/flow (displaying all the elements within the website), and a more flexible prototype with less features included, so the user can click around and get a general feel for things (doesn't display completed lessons and have purchase history).
+#### User Progress
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FydwJChLGVRTIUWu33gTjJt%2FFinal-Assignment-7%3Fnode-id%3D313%253A4%26scaling%3Dscale-down%26page-id%3D313%253A3%26starting-point-node-id%3D313%253A4" allowfullscreen></iframe>
+
+#### General Navigation
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FydwJChLGVRTIUWu33gTjJt%2FFinal-Assignment-7%3Fnode-id%3D117%253A2653%26scaling%3Dscale-down%26page-id%3D117%253A2652%26starting-point-node-id%3D117%253A2653" allowfullscreen></iframe>
 
 See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 ### Evaluation and revision history 
