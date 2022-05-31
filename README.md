@@ -4,12 +4,39 @@
 What is the project about? The motivation of the project and possible contribution.
 ### Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
-### Competitor analysis [assignment01 & 02]:
+### Competitor Analysis
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+
+See more [here](https://cindidong.github.io/DH110/Assignments/1/).
+
+#### Usability Testing
+See more [here](https://cindidong.github.io/DH110/Assignments/2/).
+
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
+See more [here](https://cindidong.github.io/DH110/Assignments/3/).
+
 ### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+The purpose of UX storytelling is to put yourself into your user's shoes to better understand how to design the product for your target audience. In my case, I brainstormed 3 users/personas with varying prior knowledge on music theory and reasons to learn about music theory. To put myself in their shoes, I created empathy maps and journey maps to understand their pain points.
+<table>
+  <tr>
+    <th><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldPersona.png" height="300px"></th>
+    <th><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaPersona.png" height="300px"></th>
+    <th><img src="https://cindidong.github.io/DH110/Assignments/4/JohnPersona.png" height="300px"></th>
+  </tr>
+  <tr>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldEmpathy.png" height="300px"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaEmpathy.png" height="300px"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/JohnEmpathy.png" height="300px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldJourney.png" height="300px"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaJourney.png" height="300px"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/JohnJourney.png" height="300px"></td>
+  </tr>
+</table>
+See more [here](https://cindidong.github.io/DH110/Assignments/4/).
+
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
