@@ -61,12 +61,11 @@ Summary statement and link to or an embedded prototype
 
 See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 ### Evaluation and revision history 
-#### Interface Design
+#### Impression Test
 I created typographic, shape, and color variations, then ran an impression test. I also ran a color contrast check.
-
-##### Impression Test 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1hdPrT2sJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### Summary
 The participant could tell immediately that the website was for learning music theory, and thought it looked interesting. The participant preferred the font Jost, as they described it as having more "character" than the other fonts. They also preferred rounder buttons, but stated that this might be a personal preference. They did not like the rectangle buttons, stating that it makes the website look unfinished. The participant preferred a higher contrast between the background and the text.
 
 See more [here](https://cindidong.github.io/DH110/Assignments/6/).
