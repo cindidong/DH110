@@ -78,6 +78,8 @@ I conducted this cognitive walkthrough in class, with my peers. [Link to Comment
 - Participant thought the purple link color was confusing (as purple usually means a link has already been visited). They liked the idea of it being obviously a link, and recommended making it blue instead (for an unvisited link).
 - Participants thought the discrepancy between the "Free Music Theory Lessons" card on the Home page and "Table of Contents" button in the NavBar was confusing.
 
+See more [here](https://cindidong.github.io/DH110/Assignments/7/).
+
 #### Usability Testing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqiJ-iYZjSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -88,7 +90,7 @@ I conducted this cognitive walkthrough in class, with my peers. [Link to Comment
 - Participant went to the My Account page first to find the completed lessons, then went to the Table of Contents page. Ultimately, they said they preferred the completed lessons/user progress to be presented as a checkmark next to the completed lesson's name in the Table of Contents page instead of listed in the My Account page.
 - Participant caught my error of not connecting the sign up popup to the "Sign up to unlock more content" text in the Table of Contents page. The "Sign up" part of the text is in the unvisited link color, which caused them to click on the "Sign up" part. Nothing happened, as I had forgotten to connect this to the sign up popup.
 
-See the entire revision process [here](https://cindidong.github.io/DH110/Assignments/7/).
+See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 ### Pitch video 
 ### Conclusion
 What did you learn throughout the process?
