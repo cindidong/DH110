@@ -20,30 +20,34 @@ See more [here](https://cindidong.github.io/DH110/Assignments/3/).
 The purpose of UX storytelling is to put yourself into your user's shoes to better understand how to design the product for your target audience. In my case, I brainstormed 3 users/personas with varying prior knowledge on music theory and reasons to learn about music theory. To put myself in their shoes, I created empathy maps and journey maps to understand their pain points.
 <table>
   <tr>
-    <th><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldPersona.png" height="300px"></th>
-    <th><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaPersona.png" height="300px"></th>
-    <th><img src="https://cindidong.github.io/DH110/Assignments/4/JohnPersona.png" height="300px"></th>
+    <th><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldPersona.png"></th>
+    <th><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaPersona.png"></th>
+    <th><img src="https://cindidong.github.io/DH110/Assignments/4/JohnPersona.png"></th>
   </tr>
   <tr>
-    <td><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldEmpathy.png" height="300px"></td>
-    <td><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaEmpathy.png" height="300px"></td>
-    <td><img src="https://cindidong.github.io/DH110/Assignments/4/JohnEmpathy.png" height="300px"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldJourney.png" height="300px"></td>
-    <td><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaJourney.png" height="300px"></td>
-    <td><img src="https://cindidong.github.io/DH110/Assignments/4/JohnJourney.png" height="300px"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/HaroldEmpathy.png"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/OliviaEmpathy.png"></td>
+    <td><img src="https://cindidong.github.io/DH110/Assignments/4/JohnEmpathy.png"></td>
   </tr>
 </table>
 See more [here](https://cindidong.github.io/DH110/Assignments/4/).
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
+
+See more [here](https://cindidong.github.io/DH110/Assignments/5/).
+See more [here](https://cindidong.github.io/DH110/Assignments/6/).
+
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+See more [here](https://cindidong.github.io/DH110/Assignments/5/).
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
+See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 ### Pitch video 
 ### Conclusion: 
 What did you learn throughout the process?
