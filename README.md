@@ -76,6 +76,11 @@ The purpose of low-fidelity prototyping to take these tasks created from the pro
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/RNMQqsmtNKkvVCLBL4emfZ"></iframe>
 See more [here](https://cindidong.github.io/DH110/Assignments/5/).
 
+#### Wire Flow Testing Summary
+- The participant was confused on why paid content is a separate app instead of the same platform (a website). Suggested to keep on same platform, and just unlock more content on the website with a purchase.
+- Table of Contents button: The participant was confused if Table of Contents button in header leads back to the table of contents page, or a popup menu. They were also confused if you had to click or hover over the Table of Contents in the header.
+- Table of Contents Popup Menu: The participant thought the menu would be annoying if there's lots of lessons. Suggested having only section headers that you can click on to reveal all the lessons in the section instead, to reduce clutter.
+
 ### High-fidelity prototype
 Using the low-fidelity prototype, I developed some interface designs and turned them into high-fidelity prototypes using Figma. I have two prototypes, as Figma does not save the state. Therefore it's difficult to include the completed lessons/user progress within my main flow. Thus, I have a prototype with a more strict path/flow (displaying all the elements within the website), and a more flexible prototype with less features included, so the user can click around and get a general feel for things (doesn't display completed lessons and have purchase history).
 #### User Progress
