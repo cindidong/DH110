@@ -32,12 +32,7 @@ The purpose of UX storytelling is to put yourself into your user's shoes to bett
 </table>
 See more [here](https://cindidong.github.io/DH110/Assignments/4/).
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
-
-See more [here](https://cindidong.github.io/DH110/Assignments/5/).
-See more [here](https://cindidong.github.io/DH110/Assignments/6/).
-
-### Low-fidelity prototype (wireflow, assignment06)
+### Low-fidelity prototype
 #### Scenarios
 - Harold Miller is a 65 year old man who is looking to learn guitar to play along to his favorite band, the Beatles. He just needs to learn how to read sheet music, and is not very tech savvy. He needs a simple, easy to navigate website or else he will get overwhelmed. Since he's a beginner, his scenario consists of him discovering the website and starting from the beginning with the first lesson.
 - Olivia Garcia is a 11 year old girl learning how to play piano. She needs to learn music theory to improve at piano, but is very easily distracted and full of energy (as she is a child). She needs a heavily interactive website, with lots of content to keep her entertained. Olivia is also a beginner, so her scenario consists of her discovering the website and completing the first lesson as well.
@@ -60,6 +55,22 @@ The purpose of low-fidelity prototyping to take these tasks created from the pro
 
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/RNMQqsmtNKkvVCLBL4emfZ"></iframe>
 See more [here](https://cindidong.github.io/DH110/Assignments/5/).
+
+### Interface Design
+I created typographic, shape, and color variations, then ran an impression test. I also ran a color contrast check, and developed my design system.
+#### Typographic Variations
+<img src="https://cindidong.github.io/DH110/Assignments/6/TypographicVariation.png">
+
+#### Shape Variations
+<img src="https://cindidong.github.io/DH110/Assignments/6/ShapeVariation.png">
+
+#### Color Variations
+<img src="https://cindidong.github.io/DH110/Assignments/6/ColorVariation.png">
+
+#### Design System
+<img src="https://cindidong.github.io/DH110/Assignments/6/Styles.png">
+
+See more [here](https://cindidong.github.io/DH110/Assignments/6/).
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
