@@ -39,6 +39,8 @@ See more [here](https://cindidong.github.io/DH110/Assignments/6/).
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/RNMQqsmtNKkvVCLBL4emfZ"></iframe>
 See more [here](https://cindidong.github.io/DH110/Assignments/5/).
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
