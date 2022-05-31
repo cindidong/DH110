@@ -20,6 +20,7 @@ I chose https://www.musictheory.net/ as the website I was going to redesign. Thi
 - The participant had trouble discovering the free lessons, as they clicked on the large cards redirecting to the paid app.
 - The participant would not have discovered some features (image mode) without prompting from the task.
 - From this, I learned to keep the website simple, so everyone could easily figure it out. Extra features are unnecessary if no one can discover them. Likewise, I learned to keep the advertising for the paid apps to a minimum.
+
 See more [here](https://cindidong.github.io/DH110/Assignments/2/).
 
 ### User research
@@ -34,6 +35,7 @@ After the usability test, I wanted to see how users would actually use the websi
 - The participant preferred a more textbook format. This was because the textbook format (a page with all the information laid out in text on it) allowed them to quickly scan for relevant information. As https://www.musictheory.net/ is more interactive and has animations/slideshows, it's much harder to quickly scan through the entire lesson for relevant sections. An intermediate level in music theory would do this a lot more than beginners.
 - The participant didn't want to spend too long looking for a music theory resource. During their search for a music theory resource, they Googled "music theory educational resource" and clicked on the first link.
 - From this, I learned that most users aren't interested in music theory on its own, instead learning music theory to supplement their other musical pursuits. Thus, they prefer a more simple design (textbook format) with interactive elements to keep it fresh.
+
 See more [here](https://cindidong.github.io/DH110/Assignments/3/).
 
 ### UX storytelling
