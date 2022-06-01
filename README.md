@@ -1,9 +1,11 @@
 # Learn Music Theory 
 ## Cindi Dong
 ### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+This quarter's project theme was music learning. I had originally planned to do a website based around music/beat composition, as I'm interested on how to create music. However, I found most of these websites required some basic music theory knowledge to begin with. I don't have any prior music theory (or music in general) knowledge, so I had to do some research on music theory. Along the way, I discovered most music theory learning websites were rather outdated, uninteresting, and had no interactive elements to grab the user's attention. 
+
 ### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+Music theory tends to be a concept heavy topic, with dense material. The learning process is often boring, as many sites provide a drier "just text" approach to learning music theory. Through my project, I hope to provide a learning music theory website that balances fun, interactive design and actual information/content.
+
 ### Competitor Analysis
 To start off, I took a look at the competitors in this field.
 
