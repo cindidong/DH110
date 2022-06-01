@@ -6,11 +6,20 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 ### Competitor Analysis
 To start off, I took a look at the competitors in this field.
-| [The Method Behind the Music](https://method-behind-the-music.com/) | [musictheory.net](https://www.musictheory.net/) |
-| ------------- | ------------- |
-| <img src="https://cindidong.github.io/DH110/Assignments/1/TheMethodBehindTheMusic.png"> | <img src="https://cindidong.github.io/DH110/Assignments/1/MusicTheory.png"> |
-| The design is minimalist, but it is not aesthetic. It's a bare bones HTML website that could use a redesign, as it looks very uninteresting and boring. This doesn't affect the usability of the site, but more interactive elements would draw more users in. The site itself has some issues with lesson navigation.  | The overall design of the website looks like it was originally designed as a mobile app, then sloppily converted into a web application. There were also some issues with lesson navigation. |
-
+<table width="100%">
+  <tr>
+    <th width="50%"><a href="https://method-behind-the-music.com/">The Method Behind the Music</a></th>
+    <th width="50%"><a href="https://www.musictheory.net/">musictheory.net</a></th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://cindidong.github.io/DH110/Assignments/1/TheMethodBehindTheMusic.png"></td>
+    <td width="50%"><img src="https://cindidong.github.io/DH110/Assignments/1/MusicTheory.png"></td>
+  </tr>
+  <tr>
+    <td width="50%"><p>The design is minimalist, but it is not aesthetic. It's a bare bones HTML website that could use a redesign, as it looks very uninteresting and boring. This doesn't affect the usability of the site, but more interactive elements would draw more users in. The site itself has some issues with lesson navigation.</p></td>
+    <td width="50%"><p>The overall design of the website looks like it was originally designed as a mobile app, then sloppily converted into a web application. There were also some issues with lesson navigation.</p></td>
+  </tr>
+</table>
 See more [here](https://cindidong.github.io/DH110/Assignments/1/).
 
 #### Usability Testing
