@@ -7,10 +7,15 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor Analysis
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+| [musictheory.net](https://www.musictheory.net/)  | [The Method Behind the Music](https://method-behind-the-music.com/) |
+| ------------- | ------------- |
+| <img src="https://cindidong.github.io/DH110/Assignments/4/MusicTheory.png">  | <img src="https://cindidong.github.io/DH110/Assignments/4/TheMethodBehindTheMusic.png"> |
+| Content Cell  | Content Cell  |
+
 See more [here](https://cindidong.github.io/DH110/Assignments/1/).
 
 #### Usability Testing
-I chose https://www.musictheory.net/ as the website I was going to redesign. This was because I thought it was a little more interesting content wise, with animations. I then ran an usability test on https://www.musictheory.net/ to understand what a target user would think of this website.
+I chose [musictheory.net](https://www.musictheory.net/) as the website I was going to redesign. This was because I thought it was a little more interesting content wise, with animations. I then ran an usability test on [musictheory.net](https://www.musictheory.net/) to understand what a target user would think of this website.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfO5F0VYkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
