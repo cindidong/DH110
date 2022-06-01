@@ -6,6 +6,7 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 ### Competitor Analysis
 To start off, I took a look at the competitors in this field.
+
 <table width="100%">
   <tr>
     <th width="50%"><a href="https://method-behind-the-music.com/">The Method Behind the Music</a></th>
@@ -20,6 +21,7 @@ To start off, I took a look at the competitors in this field.
     <td width="50%"><p>The overall design of the website looks like it was originally designed as a mobile app, then sloppily converted into a web application. There were also some issues with lesson navigation.</p></td>
   </tr>
 </table>
+
 See more [here](https://cindidong.github.io/DH110/Assignments/1/).
 
 #### Usability Testing
