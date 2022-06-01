@@ -4,7 +4,7 @@
 This quarter's project theme was music learning. I had originally planned to do a website based around music/beat composition, as I'm interested on how to create music. However, I found most of these websites required some basic music theory knowledge to begin with. I don't have any prior music theory (or music in general) knowledge, so I had to do some research on music theory. Along the way, I discovered most music theory learning websites were rather outdated, uninteresting, and had no interactive elements to grab the user's attention. 
 
 ### Clear design statement: 
-Music theory tends to be a concept heavy topic, with dense material. The learning process is often boring, as many sites provide a drier "just text" approach to learning music theory. Through my project, I hope to provide a learning music theory website that balances fun, interactive design and actual information/content.
+Music theory tends to be a concept heavy topic, with dense material. The learning process is often boring, as many sites provide a drier "just text" approach to learning music theory. Through my project, I hope to provide a learning music theory website that balances fun, interactive design and actual information/content. To help accomplish this goal, I focused on creating a more visually interesting design, adding interactive elements to the lessons (end of lesson quizzes, etc), and more streamlined website navigation.
 
 ### Competitor Analysis
 To start off, I took a look at the competitors in this field.
