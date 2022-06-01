@@ -14,7 +14,7 @@ I chose https://www.musictheory.net/ as the website I was going to redesign. Thi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfO5F0VYkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Summary
+#### Usability Testing Summary
 - The participant did not explore the website/click around as much as I expected, and didn't discover that the lessons were animations. They did not click the forward or backwards arrows to advance the animation, and instead focused on reading the script below to obtain the information.
 - The participant did not end up finding the sound button in the lesson that plays the intended sound.
 - The participant had trouble discovering the free lessons, as they clicked on the large cards redirecting to the paid app.
@@ -23,7 +23,7 @@ I chose https://www.musictheory.net/ as the website I was going to redesign. Thi
 
 See more [here](https://cindidong.github.io/DH110/Assignments/2/).
 
-### User research
+### User Research
 After the usability test, I wanted to see how users would actually use the website using contextual inquiry. Thus, I conducted a participatory observation/interview with a participant who was interested in music. This interview gave me some key insights into how my target demographic actually wanted.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ikB133o7Uak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,9 +61,11 @@ See more [here](https://cindidong.github.io/DH110/Assignments/4/).
 - John Williams is a 45 year old man who has prior knowledge of music theory. He is currently going through a music production course, and needs to brush up on some concepts. He needs to be able to easily search for a particular concept, and learn it quickly. His scenario sees him jumping from lesson to lesson. He originally discovers the website to learn about chords, but needs to complete the major scales lesson before continuing with the chords lesson.
 
 From these scenarios, I came up with new features:
+
 #### Landing/Front Page
 - Landing page is the table of contents.
 - Remove the giant advertising for the paid app version, users will buy the app if they enjoy the free content (can add a link for more paid lessons at the end of the table of contents)
+
 #### Lessons
 - Textbook format (all text with interactive elements scattered in-between)
 - Interactive elements (quizzes at the end of the lesson, opportunities to play the piano or the chords themselves)
@@ -76,12 +78,13 @@ I created the following tasks to showcase the new features:
 The purpose of low-fidelity prototyping to take these tasks created from the process I've detailed above to develop visuals. This allows for testing of my new features' functionality and integration with the website before investing time and effort into actual development.
 
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/RNMQqsmtNKkvVCLBL4emfZ"></iframe>
-See more [here](https://cindidong.github.io/DH110/Assignments/5/).
 
 #### Wire Flow Testing Summary
 - The participant was confused on why paid content is a separate app instead of the same platform (a website). Suggested to keep on same platform, and just unlock more content on the website with a purchase.
 - Table of Contents button: The participant was confused if Table of Contents button in header leads back to the table of contents page, or a popup menu. They were also confused if you had to click or hover over the Table of Contents in the header.
 - Table of Contents Popup Menu: The participant thought the menu would be annoying if there's lots of lessons. Suggested having only section headers that you can click on to reveal all the lessons in the section instead, to reduce clutter.
+
+See more [here](https://cindidong.github.io/DH110/Assignments/5/).
 
 ### High-fidelity prototype
 Using the low-fidelity prototype, I developed some interface designs and turned them into high-fidelity prototypes using Figma. I have two prototypes, as Figma does not save the state. Therefore it's difficult to include the completed lessons/user progress within my main flow. Thus, I have a prototype with a more strict path/flow (displaying all the elements within the website), and a more flexible prototype with less features included, so the user can click around and get a general feel for things (doesn't display completed lessons and have purchase history).
