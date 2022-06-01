@@ -29,7 +29,7 @@ See more [here](https://cindidong.github.io/DH110/Assignments/1/).
 #### Usability Testing
 I chose [musictheory.net](https://www.musictheory.net/) as the website I was going to redesign. This was because I thought it was a little more interesting content wise, with animations. I then ran an usability test on [musictheory.net](https://www.musictheory.net/) to understand what a target user would think of this website.
 
-<iframe width="100%" src="https://www.youtube.com/embed/VfO5F0VYkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VfO5F0VYkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Summary
 - The participant did not explore the website/click around as much as I expected, and didn't discover that the lessons were animations. They did not click the forward or backwards arrows to advance the animation, and instead focused on reading the script below to obtain the information.
