@@ -1,9 +1,9 @@
 # Learn Music Theory 
 ## Cindi Dong
-### Introduction: a brief information about the project. 
+### Introduction
 This quarter's project theme was music learning. I had originally planned to do a website based around music/beat composition, as I'm interested on how to create music. However, I found most of these websites required some basic music theory knowledge to begin with. I don't have any prior music theory (or music in general) knowledge, so I had to do some research on music theory. Along the way, I discovered most music theory learning websites were rather outdated, uninteresting, and had no interactive elements to grab the user's attention. 
 
-### Clear design statement: 
+### Design Statement
 Music theory tends to be a concept heavy topic, with dense material. The learning process is often boring, as many sites provide a drier "just text" approach to learning music theory. Through my project, I hope to provide a learning music theory website that balances fun, interactive design and actual information/content. To help accomplish this goal, I focused on creating a more visually interesting design, adding interactive elements to the lessons (end of lesson quizzes, etc), and more streamlined website navigation.
 
 ### Competitor Analysis
@@ -55,7 +55,7 @@ After the usability test, I wanted to see how users would actually use the websi
 
 See more [here](https://cindidong.github.io/DH110/Assignments/3/).
 
-### UX storytelling
+### UX Storytelling
 The purpose of UX storytelling is to put yourself into your user's shoes to better understand how to design the product for your target audience. In my case, I brainstormed 3 users/personas with varying prior knowledge on music theory and reasons to learn about music theory. To put myself in their shoes, I created empathy maps and journey maps to understand their pain points.
 <table>
   <tr>
@@ -71,7 +71,7 @@ The purpose of UX storytelling is to put yourself into your user's shoes to bett
 </table>
 See more [here](https://cindidong.github.io/DH110/Assignments/4/).
 
-### Low-fidelity prototype
+### Low-Fidelity Prototype
 #### Scenarios
 - Harold Miller is a 65 year old man who is looking to learn guitar to play along to his favorite band, the Beatles. He just needs to learn how to read sheet music, and is not very tech savvy. He needs a simple, easy to navigate website or else he will get overwhelmed. Since he's a beginner, his scenario consists of him discovering the website and starting from the beginning with the first lesson.
 - Olivia Garcia is a 11 year old girl learning how to play piano. She needs to learn music theory to improve at piano, but is very easily distracted and full of energy (as she is a child). She needs a heavily interactive website, with lots of content to keep her entertained. Olivia is also a beginner, so her scenario consists of her discovering the website and completing the first lesson as well.
@@ -103,7 +103,7 @@ The purpose of low-fidelity prototyping to take these tasks created from the pro
 
 See more [here](https://cindidong.github.io/DH110/Assignments/5/).
 
-### High-fidelity prototype
+### High-Fidelity Prototype
 Using the low-fidelity prototype, I developed some interface designs and turned them into high-fidelity prototypes using Figma. I have two prototypes, as Figma does not save the state. Therefore it's difficult to include the completed lessons/user progress within my main flow. Thus, I have a prototype with a more strict path/flow (displaying all the elements within the website), and a more flexible prototype with less features included, so the user can click around and get a general feel for things (doesn't display completed lessons and have purchase history).
 #### User Progress
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FydwJChLGVRTIUWu33gTjJt%2FFinal-Assignment-7%3Fnode-id%3D313%253A4%26scaling%3Dscale-down%26page-id%3D313%253A3%26starting-point-node-id%3D313%253A4" allowfullscreen></iframe>
@@ -112,7 +112,7 @@ Using the low-fidelity prototype, I developed some interface designs and turned 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FydwJChLGVRTIUWu33gTjJt%2FFinal-Assignment-7%3Fnode-id%3D117%253A2653%26scaling%3Dscale-down%26page-id%3D117%253A2652%26starting-point-node-id%3D117%253A2653" allowfullscreen></iframe>
 
 See more [here](https://cindidong.github.io/DH110/Assignments/7/).
-### Evaluation and revision history 
+### Evaluation and Revision History 
 #### Impression Test
 I created typographic, shape, and color variations, then ran an impression test. I also ran a color contrast check.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1hdPrT2sJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -146,6 +146,6 @@ See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 - Participant caught my error of not connecting the sign up popup to the "Sign up to unlock more content" text in the Table of Contents page. The "Sign up" part of the text is in the unvisited link color, which caused them to click on the "Sign up" part. Nothing happened, as I had forgotten to connect this to the sign up popup.
 
 See more [here](https://cindidong.github.io/DH110/Assignments/7/).
-### Pitch video
+### Pitch Video
 ### Conclusion
 This project was my first experience with UI+UX, although I did have prior experience in front end web development. Coming from a background where I just coded up the design provided to me by UI+UX designers, I left with a new appreciation of the work they do. I found many aspects of the research and design process challenging. I had never conducted user research before, and I found it challenging but rewarding to moderate user surveys/tests. In addition, I found designing difficult. Something that was obvious to me was not so obvious to someone else. By conducting cognitive walkthroughs and usability tests, I was able to patch these holes in the design. I also learned to keep the user in mind at all stages of the research+design process, which I can take to all future projects, even software, that I develop. In the end, I think I managed to accomplish my goal of creating a more interesting but yet still informative website for learning music theory.
