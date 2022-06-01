@@ -147,5 +147,8 @@ See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 
 See more [here](https://cindidong.github.io/DH110/Assignments/7/).
 ### Pitch Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1ZTOB0cqJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Conclusion
 This project was my first experience with UI+UX, although I did have prior experience in front end web development. Coming from a background where I just coded up the design provided to me by UI+UX designers, I left with a new appreciation of the work they do. I found many aspects of the research and design process challenging. I had never conducted user research before, and I found it challenging but rewarding to moderate user surveys/tests. In addition, I found designing difficult. Something that was obvious to me was not so obvious to someone else. By conducting cognitive walkthroughs and usability tests, I was able to patch these holes in the design. I also learned to keep the user in mind at all stages of the research+design process, which I can take to all future projects, even software, that I develop. In the end, I think I managed to accomplish my goal of creating a more interesting but yet still informative website for learning music theory.
