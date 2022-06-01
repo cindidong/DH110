@@ -5,12 +5,11 @@ What is the project about? The motivation of the project and possible contributi
 ### Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 ### Competitor Analysis
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-
-| [musictheory.net](https://www.musictheory.net/)  | [The Method Behind the Music](https://method-behind-the-music.com/) |
+To start off, I took a look at the competitors in this field.
+| [The Method Behind the Music](https://method-behind-the-music.com/) | [musictheory.net](https://www.musictheory.net/) |
 | ------------- | ------------- |
-| <img src="https://cindidong.github.io/DH110/Assignments/4/MusicTheory.png">  | <img src="https://cindidong.github.io/DH110/Assignments/4/TheMethodBehindTheMusic.png"> |
-| Content Cell  | Content Cell  |
+| <img src="https://cindidong.github.io/DH110/Assignments/1/TheMethodBehindTheMusic.png"> | <img src="https://cindidong.github.io/DH110/Assignments/1/MusicTheory.png"> |
+| The design is minimalist, but it is not aesthetic. It's a bare bones HTML website that could use a redesign, as it looks very uninteresting and boring. This doesn't affect the usability of the site, but more interactive elements would draw more users in. The site itself has some issues with lesson navigation.  | The overall design of the website looks like it was originally designed as a mobile app, then sloppily converted into a web application. There were also some issues with lesson navigation. |
 
 See more [here](https://cindidong.github.io/DH110/Assignments/1/).
 
