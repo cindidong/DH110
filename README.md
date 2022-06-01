@@ -14,7 +14,7 @@ I chose https://www.musictheory.net/ as the website I was going to redesign. Thi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfO5F0VYkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Usability Testing Summary
+##### Summary
 - The participant did not explore the website/click around as much as I expected, and didn't discover that the lessons were animations. They did not click the forward or backwards arrows to advance the animation, and instead focused on reading the script below to obtain the information.
 - The participant did not end up finding the sound button in the lesson that plays the intended sound.
 - The participant had trouble discovering the free lessons, as they clicked on the large cards redirecting to the paid app.
@@ -62,11 +62,11 @@ See more [here](https://cindidong.github.io/DH110/Assignments/4/).
 
 From these scenarios, I came up with new features:
 
-#### Landing/Front Page
+##### Landing/Front Page
 - Landing page is the table of contents.
 - Remove the giant advertising for the paid app version, users will buy the app if they enjoy the free content (can add a link for more paid lessons at the end of the table of contents)
 
-#### Lessons
+##### Lessons
 - Textbook format (all text with interactive elements scattered in-between)
 - Interactive elements (quizzes at the end of the lesson, opportunities to play the piano or the chords themselves)
 - Once you click on the menu button, it opens to a mini table of contents without going back to the table of contents page
